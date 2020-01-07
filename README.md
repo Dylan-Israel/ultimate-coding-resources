@@ -22,4 +22,11 @@ A collection of the best resources for programming, web development, computer sc
 
 # Sites
 
-# Podcasts
+<details open>
+  <summary>Podcasts</summary>
+
+<ol>
+  <li></li>
+</ol>
+
+</details>
