@@ -57,7 +57,7 @@ By the end of the course you'll be able to pass a front end technical screen cov
 
 <details open>
   <summary>Sites</summary>
-  <details>
+  <details open>
     <summary>Sites - Coding Platforms</summary>
       <ol>
         <li>
@@ -73,7 +73,7 @@ By the end of the course you'll be able to pass a front end technical screen cov
       </ol>
   </details>
 
-  <details>
+  <details open>
     <summary>Sites - Algorithm Platforms</summary>
       <ol>
         <li>
@@ -91,7 +91,7 @@ By the end of the course you'll be able to pass a front end technical screen cov
       </ol>
   </details>
 
-  <details>
+  <details open>
     <summary>Sites - Course Sites</summary>
     <ol>
       <li>
@@ -112,16 +112,34 @@ By the end of the course you'll be able to pass a front end technical screen cov
     </ol>
   </details>
   
-  <details>
+  <details open>
     <summary>Sites - Career & Job Sites</summary>
       <ol>
         <li>
           <a href="https://www.wayup.com/" target="blank">WayUp</a> - is the industry leader for college students and recent grads to get hired.
         </li>
+        <li>
+          <a href="https://novoresume.com/">NovoResume</a> - Novorésumé began in 2014 when Andrei, Cristian, and Stefan noticed a common problem among several of their contacts. Despite having extensive work experience and impressive skill sets, these individuals didn’t know how to showcase their talents with a professional resume and cover letter. Sensing an opportunity to help others with their job search, the three of them joined forces in exploring possible solutions as part of a university project.
+        </li>
       </ol>
   </details>
 
-  <details>
+ <details open>
+    <summary>Sites - Documentation</summary>
+      <ol>
+        <li>
+          <a href="https://www.w3schools.com/" target="blank">W3Schools</a> - W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. 
+        </li>
+          <li>
+          <a href="https://developer.mozilla.org/en-US/" target="blank">Mozilla</a> - MDN's mission is simple: to provide developers with the information they need to easily build projects on the open Web. If it's an open technology exposed to the Web, we want to document it.
+        </li>
+        <li>
+         <a href="https://stackoverflow.com/" target="blank">Stack Overflow</a> - Founded in 2008, Stack Overflow is the largest, most trusted online community for anyone that codes to learn, share their knowledge, and build their careers. More than 50 million unique visitors come to Stack Overflow each month to help solve coding problems, develop new skills, and find job opportunities.
+        </li>
+      </ol>
+  </details>
+
+  <details open>
     <summary>Sites - Misc</summary>
       <ol>
         <li>
