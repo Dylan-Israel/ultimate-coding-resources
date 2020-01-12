@@ -65,12 +65,14 @@ By the end of the course you'll be able to pass a front end technical screen cov
         <li>
           <a href="https://www.freecodecamp.org/" target="blank">FreeCodeCamp</a> - Learn to code. Build projects. Earn certifications. Since 2014, more than 40,000 freeCodeCamp.org graduates have gotten jobs at tech companies including
         </li>
-          <li>
         <li>
           <a href="https://scrimba.com/" target="blank">Scrimba</a> - Our mind-blowing learning experience makes it easier than ever to grow your coding skills. So pick a course, start learning, and give your career the boost it deserves.
         </li>
         <li>
         <a href="https://codecombat.com/" target="blank">CodeCombat</a> - CodeCombat is a game-based computer science program where students type real code and see their characters react in real time.
+        </li>
+        <li>
+          <a href="https://www.sololearn.com/" target="blank">SoloLearn</a> - Join the largest community of mobile code learners today.
         </li>
       </ol>
   </details>
