@@ -180,8 +180,19 @@ By the end of the course you'll be able to pass a front end technical screen cov
     <li>
       <a href="https://podcast.freecodecamp.org/">FreeCodeCamp</a> - The official podcast of the freeCodeCamp open source community. Learn to code with free online courses, programming projects, and interview preparation for developer jobs.
     </li>
+  <li>
+    <a href="https://realtalkjavascript.simplecast.com/" target="blank">Real Talk JavaScript</a> - Dive into JavaScript and Web development stories with hosts John Papa, Ward Bell, and Dan Wahlin. Sponsored by Nrwl.io A weekly podcast where we tackle the challenges facing Web developers today and invite expert guests on the show to share ktheir experience solving concrete problems while building real Web applications.
+  </li>
+  <li>
+    <a href="https://vanillajspodcast.com/" target="blank">The Vanilla JS Podcast</a> - A show about JavaScript for people who hate the complexity of modern front‑end web development, hosted by Chris Ferdinandi.
+  </li>
+  <li>
+    <a href="https://egghead.io/podcasts" target="blank">EggHead.io Developer Chats</a> - Humans talking about the business of building software, constant learning, and balancing it with everyday life.
+  </li>
+  <li>
+    <a href="https://syntax.fm/" target="blank">Syntax.fm</a> - A Tasty Treats Podcast for Web Developers by Wes Bos & Scott Tolinski.
+  </li>
   </ol>
-
 </details>
 
 <details open>
