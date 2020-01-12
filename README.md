@@ -191,7 +191,37 @@ By the end of the course you'll be able to pass a front end technical screen cov
         </li>
       </ol>
   </details>
-
+  <details open>
+    <summary>Sites - Code Playgrounds</summary>
+      <ol>
+        <li>
+          <a href="https://jsfiddle.net/" target="blank">JSFiddle</a> - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
+        </li>
+              <li>
+          <a href="https://codepen.io/" target="blank">Codepen</a> - CodePen is an online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets. It functions as an online code editor and open-source learning environment, where developers can create code snippets, called "pens," and test them.
+        </li>
+          <li>
+          <a href="https://stackblitz.com/" target="blank">StackBlitz</a> - Code the Future.
+In Your Browser.
+Create, edit & deploy fullstack apps — in just one click.
+        </li>
+      </ol>
+  </details>
+   <details open>
+    <summary>Sites - Tools</summary>
+      <ol>
+        <li>
+          <a href="https://trello.com/" target="blank">Trello</a> - Whether it’s for work, a side project or even the next family vacation, Trello helps your team stay organized.
+        </li>
+            <li>
+          <a href="https://slack.com/" target="blank">Slack</a> - Slack replaces email inside your company.
+Discuss, collaborate, share — work is better without the inbox.
+        </li>
+           <li>
+          <a href="https://github.com/" target="blank">Github</a> - We’re supporting a community where more than 40 million* people learn, share, and work together to build software.
+        </li>
+      </ol>
+  </details>
   <details open>
     <summary>Sites - Misc</summary>
       <ol>
