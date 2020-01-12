@@ -74,6 +74,9 @@ By the end of the course you'll be able to pass a front end technical screen cov
         <li>
           <a href="https://www.sololearn.com/" target="blank">SoloLearn</a> - Join the largest community of mobile code learners today.
         </li>
+        <li>
+          <a href="https://www.codingame.com/start" target="blank">Coding Game</a> - At CodinGame, our goal is to let programmers keep on improving their coding skills by solving the World's most challenging problems, learn new concepts, and get inspired by the best developers.
+          </li>
       </ol>
   </details>
 
@@ -95,6 +98,18 @@ By the end of the course you'll be able to pass a front end technical screen cov
         <li>
           <a href="https://www.codewars.com/" target="blank">Code Wars</a> - Codewars is a collective effort by its users. They are creators - authoring kata to teach various techniques, solving kata with solutions that enlighten others, and commenting with constructive feedback. The leaders among them moderate the content and community.
          </li>
+        <li>
+          <a href="https://exercism.io/" target="blank">Exercism</a> - Level up your programming skills with 3,173 exercises across 51 languages, and insightful discussion with our dedicated team of welcoming mentors. Exercism is 100% free forever.
+          </li>
+        <li>
+          <a href="https://projecteuler.net/">Project Euler</a> - Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.
+        </li>
+        <li>
+          <a href="https://www.codechef.com/" target="blank">Code Chef</a> - CodeChef was created as a platform to help programmers make it big in the world of algorithms, computer programming, and programming contests. At CodeChef we work hard to revive the geek in you by hosting a programming contest at the start of the month and two smaller programming challenges at the middle and end of the month. We also aim to have training sessions and discussions related to algorithms, binary search, technicalities like array size and the likes.
+        </li>
+        <li>
+          <a href="https://www.coderbyte.com/">Coderbyte</a> - Coderbyte is a web application built to help you practice programming and improve your coding skills. We offer a collection of code challenges and web development courses that can help you prepare for upcoming job interviews. The coding challenges range in difficulty and they can all be completed straight in our online editor.
+        </li>
       </ol>
   </details>
 
