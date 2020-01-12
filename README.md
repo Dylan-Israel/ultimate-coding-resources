@@ -51,7 +51,7 @@ By the end of the course you'll be able to pass a front end technical screen cov
   <li>
     <a href="http://dylanisrael.com/?course=100-algorithms" target="blank">100 Algorithms Challenge</a> - Technical interviews are the filter between good and great developers. At least that is how the industry sees it. In this course we will up your problem solving ability and speed with 100 algorithm problems and solutions.
   </li>
-    <li> <a href=" https://online-learning.harvard.edu/course/cs50-introduction-computer-science" target="blank">Harvard CS50</a> An introduction to the intellectual enterprises of computer science and the art of programming by Harvard Univerity.</li>
+    <li> <a href="https://online-learning.harvard.edu/course/cs50-introduction-computer-science" target="blank">Harvard CS50</a> An introduction to the intellectual enterprises of computer science and the art of programming by Harvard Univerity.</li>
   </ol>
 </details>
 
@@ -150,4 +150,13 @@ By the end of the course you'll be able to pass a front end technical screen cov
     </li>
   </ol>
 
+</details>
+
+<details open>
+  <summary>Facebook Groups</summary>
+  <ol>
+    <li>
+      <a href="https://www.facebook.com/groups/190277791450732/">Code, Tech & Caffeine</a> - Coding noobs to senior devs to those just interested in technology this group is for you. This group is devoted to sharing helpful and interesting items in software and technology.
+    </li>
+  </ol>
 </details>
