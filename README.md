@@ -319,3 +319,16 @@ Discuss, collaborate, share — work is better without the inbox.
   </ol>
 </details>
 
+<details open>
+  <summary>Conferences</summary>
+  <ol>
+    <li>
+      <a href="https://devfest.withgoogle.com/">DevFest</a> - DevFests are community-led developer events hosted by Google Developer Groups around the globe. GDGs are focused on community building and learning about Google’s technologies. 
+    </li>
+      <li>
+      <a href="https://www.ng-conf.org/">NG-CONF</a> - World's Original Angular Conference.
+    </li>
+  </ol>
+</details>
+
+
