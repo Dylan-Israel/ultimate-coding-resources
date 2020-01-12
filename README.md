@@ -64,8 +64,6 @@ By the end of the course you'll be able to pass a front end technical screen cov
           <a href="https://www.freecodecamp.org/" target="blank">FreeCodeCamp</a> - Learn to code. Build projects. Earn certifications. Since 2014, more than 40,000 freeCodeCamp.org graduates have gotten jobs at tech companies including
         </li>
           <li>
-          <a href="https://www.freecodecamp.org/" target="blank">FreeCodeCamp</a> - Learn to code. Build projects. Earn certifications. Since 2014, more than 40,000 freeCodeCamp.org graduates have gotten jobs at tech companies including
-        </li>
         <li>
           <a href="https://scrimba.com/" target="blank">Scrimba</a> - Our mind-blowing learning experience makes it easier than ever to grow your coding skills. So pick a course, start learning, and give your career the boost it deserves.
         </li>
@@ -104,6 +102,12 @@ By the end of the course you'll be able to pass a front end technical screen cov
       </li>
       <li>
         <a href="https://thinkster.io/" target="blank">Thinkster</a> - a better way to learn. Learn how real apps are built, from scratch, using the latest frameworks.
+      </li>
+      <li>
+        <a href="https://frontendmasters.com/" target="blank">Frontend Masters</a> - Advance Your Skills with In-Depth, Modern Front-End Engineering Courses
+      </li>
+      <li>
+        <a href="https://egghead.io/" target="blank">EggHead</a> - egghead is a group of working web development professionals and open source contributors that provide you with concise, information dense video courses on the best tools in the industry.  
       </li>
     </ol>
   </details>
