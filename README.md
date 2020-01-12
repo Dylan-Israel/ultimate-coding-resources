@@ -92,6 +92,9 @@ By the end of the course you'll be able to pass a front end technical screen cov
         <li>
           <a href="https://codesignal.com/" target="blank">Code Signal</a> - formerly CodeFights a grate Algorithm site with a beautiful UI.
         </li>
+        <li>
+          <a href="https://www.codewars.com/" target="blank">Code Wars</a> - Codewars is a collective effort by its users. They are creators - authoring kata to teach various techniques, solving kata with solutions that enlighten others, and commenting with constructive feedback. The leaders among them moderate the content and community.
+         </li>
       </ol>
   </details>
 
