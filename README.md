@@ -109,6 +109,9 @@ By the end of the course you'll be able to pass a front end technical screen cov
       <li>
         <a href="https://egghead.io/" target="blank">EggHead</a> - egghead is a group of working web development professionals and open source contributors that provide you with concise, information dense video courses on the best tools in the industry.  
       </li>
+      <li>
+        <a href="https://laracasts.com/">Laracasts</a> - Push your web development skills to the next level, through expert screencasts on Laravel, Vue, and so much more. 
+       </li>
     </ol>
   </details>
   
@@ -155,6 +158,9 @@ By the end of the course you'll be able to pass a front end technical screen cov
   <ol>
     <li><a href="https://www.programwitherik.com/" target="blank">Program with Erik</a> - Erik is a two time author, YouTuber, Podcastor an much more. His blog includes tutorials, rantings and musings on software development, with a focus on JavaScript, Ember.js, Vue.js and Node.js.
     </li>
+  <li>
+    <a href="https://overreacted.io/" target="blank">Overreacted</a> - Dan Abramov's `I explain with words and code.`
+   </li>
   </ol>
 </details>
 
