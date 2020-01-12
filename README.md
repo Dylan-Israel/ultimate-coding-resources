@@ -113,6 +113,9 @@ By the end of the course you'll be able to pass a front end technical screen cov
         <li>
           <a href="https://www.coderbyte.com/">Coderbyte</a> - Coderbyte is a web application built to help you practice programming and improve your coding skills. We offer a collection of code challenges and web development courses that can help you prepare for upcoming job interviews. The coding challenges range in difficulty and they can all be completed straight in our online editor.
         </li>
+        <li>
+          <a href="https://www.pramp.com/" target="blank">Pramp</a> - Join thousands of professionals practicing live mock interviews & interview questions online, with peers, for free. We help you prep & land your dream tech job.
+        </li>
       </ol>
   </details>
 
