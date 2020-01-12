@@ -252,6 +252,9 @@ Discuss, collaborate, share — work is better without the inbox.
         <li>
           <a href="https://unsplash.com/" target="blank">Unsplash</a> - The internet’s source of freely usable images.
         </li>
+        <li>
+          <a href="https://www.humblebundle.com/?partner=coding360">Humble Bundle</a> - although known for their games. Now adays EBook bundles around web development are becoming increasingly popular.
+          </li>
       </ol>
   </details>
 </details>
@@ -307,6 +310,12 @@ Discuss, collaborate, share — work is better without the inbox.
     <li>
       <a href="https://www.facebook.com/groups/190277791450732/">Code, Tech & Caffeine</a> - Coding noobs to senior devs to those just interested in technology this group is for you. This group is devoted to sharing helpful and interesting items in software and technology.
     </li>
+    <li>
+      <a href="https://www.facebook.com/groups/759985267390294" target="blank">Hackathon Hackers</a> - This is the all-inclusive hackathons group.
+      </li>
+       <li>
+      <a href="https://www.facebook.com/groups/318334558529855" target="blank">Hacking and Coding Tutorials</a> - A closed group for technical enthusiasts interesting in hacking and coding. A place to openly discuss and share ideas and ask for help from real and certified hackers and programmers.
+      </li>
   </ol>
 </details>
 
