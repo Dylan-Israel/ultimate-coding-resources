@@ -173,6 +173,9 @@ By the end of the course you'll be able to pass a front end technical screen cov
         <li>
          <a href="https://stackoverflow.com/" target="blank">Stack Overflow</a> - Founded in 2008, Stack Overflow is the largest, most trusted online community for anyone that codes to learn, share their knowledge, and build their careers. More than 50 million unique visitors come to Stack Overflow each month to help solve coding problems, develop new skills, and find job opportunities.
         </li>
+        <li>
+          <a href="https://devdocs.io/">DevDocs</a> - Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app.
+          </li>
       </ol>
   </details>
     <details open>
@@ -183,9 +186,24 @@ By the end of the course you'll be able to pass a front end technical screen cov
         </li>
       </ol>
   </details>
+     <details open>
+    <summary>Sites - Hackathons</summary>
+      <ol>
+            <li>
+          <a href="https://angelhack.com/" target="blank">Meetup</a> - The world's most diverse hacker community, driving innovation of tech products through developer programs. 
+        </li>
+        <li>
+          <a href="https://mlh.io/" target="blank">Major League Hacking</a> - The official collegiate hackathon league. .
+        </li>
+      </ol>
+  </details>
+
    <details open>
     <summary>Sites - Community</summary>
       <ol>
+            <li>
+          <a href="https://www.meetup.com/" target="blank">Meetup</a> - Find Meetups so you can do more of what matters to you. Or create your own group and meet people near you who share your interests.
+        </li>
         <li>
           <a href="https://code.org" target="blank">Code.org</a> - Code.org® is a nonprofit dedicated to expanding access to computer science in schools and increasing participation by women and underrepresented minorities.
         </li>
@@ -244,6 +262,9 @@ Discuss, collaborate, share — work is better without the inbox.
   <li>
     <a href="https://overreacted.io/" target="blank">Overreacted</a> - Dan Abramov's `I explain with words and code.`
    </li>
+  <li>
+    <a href="https://css-tricks.com/">CSS-Tricks</a> - Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.
+    </li>
   </ol>
 </details>
 
