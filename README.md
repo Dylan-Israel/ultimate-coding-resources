@@ -77,6 +77,9 @@ By the end of the course you'll be able to pass a front end technical screen cov
         <li>
           <a href="https://www.codingame.com/start" target="blank">Coding Game</a> - At CodinGame, our goal is to let programmers keep on improving their coding skills by solving the World's most challenging problems, learn new concepts, and get inspired by the best developers.
           </li>
+        <li>
+          <a href="https://www.theodinproject.com/" target="blank">The Odin Project</a> - The Odin Project is one of those "What I wish I had when I was learning" resources. Not everyone has access to a computer science education or the funds to attend an intensive coding school and neither of those is right for everyone anyway. This project is designed to fill in the gap for people who are trying to hack it on their own but still want a high quality education.
+        </li>
       </ol>
   </details>
 
@@ -134,6 +137,15 @@ By the end of the course you'll be able to pass a front end technical screen cov
       <li>
         <a href="https://laracasts.com/">Laracasts</a> - Push your web development skills to the next level, through expert screencasts on Laravel, Vue, and so much more. 
        </li>
+      <li>
+        <a href="https://www.udacity.com/?coupon=UDACAFFIL2020" target="blank">Udacity</a> - Our mission is to power careers through tech education. We partner with leading technology companies to learn how technology is transforming industries, and teach the critical tech skills that companies are looking for in their workforce.
+      </li>
+      <li>
+        <a href="https://www.khanacademy.org/" target="blank">Khan Academy</a> - Khan Academy offers practice exercises, instructional videos, and a personalized learning dashboard that empower learners to study at their own pace in and outside of the classroom. We tackle math, science, computer programming, history, art history, economics, and more. 
+      </li>
+      <li>
+        <a href="https://codecourse.com/" target="blank">Codecourse</a> - Rather than just teach theory, we focus on real code to inspire your next project. Learning shouldn't be boring, so let's have some fun.
+        </li>
     </ol>
   </details>
   
@@ -185,6 +197,9 @@ By the end of the course you'll be able to pass a front end technical screen cov
       <ol>
         <li>
           <a href="http://bit.ly/2Puf8Ek" target="blank">Autonomous</a> - the goto place for automated standing desks, treadmills and everything dev furniture related.
+        </li>
+        <li>
+          <a href="https://unsplash.com/" target="blank">Unsplash</a> - The internet’s source of freely usable images.
         </li>
       </ol>
   </details>
