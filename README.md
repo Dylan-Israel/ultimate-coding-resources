@@ -54,16 +54,6 @@ By the end of the course you'll be able to pass a front end technical screen cov
   </ol>
 </details>
 
-<!-- <details open>
-  <summary>Sites</summary>
-
-  <details>
-    <summary>Course Sites</summary>
-
-  </details>
-
-</details> -->
-
 <details open>
   <summary>Sites</summary>
   <details>
@@ -87,6 +77,11 @@ By the end of the course you'll be able to pass a front end technical screen cov
   <details>
     <summary>Sites - Algorithm Platforms</summary>
       <ol>
+      
+        <li>
+          <a href="algoexpert.io/codinggod" target="blank">AlgoExpert</a> - If you want to ace the tech interview, being well-versed in all common data structures and popular problem-solving methods is paramount. With 85 questions spanning 14 categories and 5 difficulty levels, we've got you covered.
+        </li>
+        
         <li>
           <a href="https://www.hackerrank.com/" target="blank">HackerRank</a> - Join Over 7 million developers, practice coding skills, prepare for interviews, and get hired.
         </li>
