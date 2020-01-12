@@ -163,6 +163,22 @@ By the end of the course you'll be able to pass a front end technical screen cov
         </li>
       </ol>
   </details>
+    <details open>
+    <summary>Sites - Style & Component Libraries</summary>
+      <ol>
+        <li>
+          <a href="https://getbootstrap.com/" target="blank">Bootstrap</a> -Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.
+        </li>
+      </ol>
+  </details>
+   <details open>
+    <summary>Sites - Community</summary>
+      <ol>
+        <li>
+          <a href="https://code.org" target="blank">Code.org</a> - Code.org® is a nonprofit dedicated to expanding access to computer science in schools and increasing participation by women and underrepresented minorities.
+        </li>
+      </ol>
+  </details>
 
   <details open>
     <summary>Sites - Misc</summary>
