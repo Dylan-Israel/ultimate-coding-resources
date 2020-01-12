@@ -1,6 +1,8 @@
 # ultimate-coding-resources
 A collection of the best resources for programming, web development, computer science and more.
 
+<small>DISCLAIMER: it is worth mentioning that less than 10% of resources included have affiliate links and a few items mentioned are projects I have built that I directly benefit from their sale or use.</small>
+
 <details open>
   <summary>Books</summary>
     <ol> 
@@ -188,3 +190,4 @@ By the end of the course you'll be able to pass a front end technical screen cov
     </li>
   </ol>
 </details>
+
