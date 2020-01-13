@@ -241,6 +241,12 @@ Discuss, collaborate, share — work is better without the inbox.
            <li>
           <a href="https://github.com/" target="blank">Github</a> - We’re supporting a community where more than 40 million* people learn, share, and work together to build software.
         </li>
+                   <li>
+          <a href="https://code.visualstudio.com/" target="blank">VSCode Text Editor</a> - Code editing. Redefined. Free. Built on open source. Runs everywhere.
+        </li>
+        <li>
+          <a href="https://hyper.is/" target="blank">Hyper Terminal</a> - The goal of the project is to create a beautiful and extensible experience for command-line interface users, built on open web standards. In the beginning, our focus will be primarily around speed, stability and the development of the correct API for extension authors.
+          </li>
       </ol>
   </details>
   <details open>
@@ -323,12 +329,25 @@ Discuss, collaborate, share — work is better without the inbox.
   <summary>Conferences</summary>
   <ol>
     <li>
-      <a href="https://devfest.withgoogle.com/">DevFest</a> - DevFests are community-led developer events hosted by Google Developer Groups around the globe. GDGs are focused on community building and learning about Google’s technologies. 
+      <a href="https://devfest.withgoogle.com/" target="blank">DevFest</a> - DevFests are community-led developer events hosted by Google Developer Groups around the globe. GDGs are focused on community building and learning about Google’s technologies. 
     </li>
       <li>
-      <a href="https://www.ng-conf.org/">NG-CONF</a> - World's Original Angular Conference.
+      <a href="https://www.ng-conf.org/" target="blank">NG-CONF</a> - World's Original Angular Conference.
     </li>
   </ol>
 </details>
 
-
+<details open>
+  <summary>Chrome Extensions</summary>
+  <ol>
+    <li>
+      <a href="https://chrome.google.com/webstore/detail/lightshot-screenshot-tool/mbniclmhobmnbdlbpiphghaielnnpgdp?hl=en" target="blank">Lightshot</a> - Simple and convenient screenshot tool. Select an area, edit your screenshot and upload it to the server.
+    </li>
+      <li>
+      <a href="https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en" target="blank">JSON Formatter</a> - Makes JSON easy to read. Open source.
+    </li>
+          <li>
+      <a href="https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo" target="blank">Form Filler</a> - Fill all inputs in a page with dummy data.
+    </li>
+  </ol>
+</details>
