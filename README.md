@@ -244,8 +244,11 @@ Discuss, collaborate, share — work is better without the inbox.
                    <li>
           <a href="https://code.visualstudio.com/" target="blank">VSCode Text Editor</a> - Code editing. Redefined. Free. Built on open source. Runs everywhere.
         </li>
-        <li>
+               <li>
           <a href="https://hyper.is/" target="blank">Hyper Terminal</a> - The goal of the project is to create a beautiful and extensible experience for command-line interface users, built on open web standards. In the beginning, our focus will be primarily around speed, stability and the development of the correct API for extension authors.
+          </li>
+        <li>
+          <a href="https://justgetflux.com/" target="blank">f.lux</a> - f.lux fixes this: it makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.
           </li>
       </ol>
   </details>
