@@ -352,5 +352,11 @@ Discuss, collaborate, share — work is better without the inbox.
           <li>
       <a href="https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo" target="blank">Form Filler</a> - Fill all inputs in a page with dummy data.
     </li>
+       <li>
+      <a href="https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en" target="blank">Wappalyzer</a> - Wappalyzer is a cross-platform utility that uncovers the technologies used on websites. It detects content management systems, ecommerce platforms, web frameworks, server software, analytics tools and many more.
+    </li>
+    <li>
+      <a href="https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp" target="blank">Web Developer Checklist</a> - For web developers who wants to make sure they follow best practices. This extension allows you to very easily discover problem areas in your website.
+    </li>
   </ol>
 </details>
