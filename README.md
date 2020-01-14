@@ -358,5 +358,14 @@ Discuss, collaborate, share — work is better without the inbox.
     <li>
       <a href="https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp" target="blank">Web Developer Checklist</a> - For web developers who wants to make sure they follow best practices. This extension allows you to very easily discover problem areas in your website.
     </li>
+    <li>
+          <a href="https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd?hl=en%20" target="blank">IE Tab</a> - Display web pages using IE within Chrome. Use Java, Silverlight, ActiveX, Sharepoint, and more. A "Top 10" extension since 2009!
+    </li>
+        <li>
+          <a href="https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk" target="blank">Lighthouse</a> - Lighthouse is an open-source, automated tool for improving the performance, quality, and correctness of your web apps.
+    </li>
+     <li>
+          <a href="https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm" target="blank">Web Developer</a> - The Web Developer extension adds a toolbar button to the browser with various web developer tools. 
+    </li>
   </ol>
 </details>
