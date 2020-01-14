@@ -164,6 +164,9 @@ By the end of the course you'll be able to pass a front end technical screen cov
         <li>
           <a href="https://novoresume.com/">NovoResume</a> - Novorésumé began in 2014 when Andrei, Cristian, and Stefan noticed a common problem among several of their contacts. Despite having extensive work experience and impressive skill sets, these individuals didn’t know how to showcase their talents with a professional resume and cover letter. Sensing an opportunity to help others with their job search, the three of them joined forces in exploring possible solutions as part of a university project.
         </li>
+                <li>
+          <a href="https://www.glassdoor.com/index.htm">Glassdoor</a> - Search millions of jobs and get the inside scoop on companies with employee reviews, personalized salary tools, and more. 
+        </li>
       </ol>
   </details>
 
