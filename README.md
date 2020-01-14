@@ -167,6 +167,18 @@ By the end of the course you'll be able to pass a front end technical screen cov
                 <li>
           <a href="https://www.glassdoor.com/index.htm">Glassdoor</a> - Search millions of jobs and get the inside scoop on companies with employee reviews, personalized salary tools, and more. 
         </li>
+          <li>
+          <a href="https://angel.co/">AngelList</a> - Apply privately to 130,000+ tech & startup jobs with one application. See salary and equity upfront.
+        </li>
+             <li>
+          <a href="https://www.bls.gov/audience/jobseekers.htm">U.S. Bureau of Labor Statistics</a> - The U.S. Bureau of Labor Statistics provides a selection of useful reports on employment statistics and 10-year forecasts. Use them to determine if the career you’ve chosen is experiencing — or is likely to experience — a talent shortage. If so, you can expect a higher starting salary or more appealing perks if your skills match up with employers’ needs.
+        </li>
+                <li>
+          <a href="https://www.payscale.com/">PayScale</a> - WHAT AM I WORTH? What your skills are worth in the market is constantly changing.
+        </li>
+            <li>
+          <a href="https://www.salary.com/">Salary</a> - Understand your worth and plan your next career move with easy-to-use tools.
+        </li>
       </ol>
   </details>
 
