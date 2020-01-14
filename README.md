@@ -250,6 +250,12 @@ Discuss, collaborate, share — work is better without the inbox.
         <li>
           <a href="https://justgetflux.com/" target="blank">f.lux</a> - f.lux fixes this: it makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.
           </li>
+          <li>
+          <a href="https://www.getpostman.com/" target="blank">Postman</a> - Postman is the only complete API development environment. Today we have 8 million developers and over 400K companies using our comprehensive set of built-in tools to support every stage of the API lifecycle.
+          </li>
+           <li>
+          <a href="https://insomnia.rest/" target="blank">Insomnia</a> - Insomnia is a cross-platform GraphQL and REST client, available for Mac, Windows, and Linux.
+          </li>
       </ol>
   </details>
   <details open>
