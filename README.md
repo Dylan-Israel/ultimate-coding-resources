@@ -184,11 +184,25 @@ By the end of the course you'll be able to pass a front end technical screen cov
           </li>
       </ol>
   </details>
+   <details open>
+    <summary>Sites - Freelance & Contract Work</summary>
+      <ol>
+        <li>
+          <a href="https://www.upwork.com/" target="blank">Upwork</a> - To connect businesses with great talent to work without limits.
+        </li>
+               <li>
+          <a href="https://www.toptal.com/" target="blank">Toptal</a> - Toptal is an exclusive network of the top freelance software developers, designers, finance experts, product managers, and project managers in the world.
+        </li>
+          <li>
+          <a href="https://craigslist.org" target="blank">Craigslist</a> - Small web dev projects and web sites can be picked up pretty easily in the jobs or gigs section.
+        </li>
+      </ol>
+  </details>
     <details open>
     <summary>Sites - Style & Component Libraries</summary>
       <ol>
         <li>
-          <a href="https://getbootstrap.com/" target="blank">Bootstrap</a> -Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.
+          <a href="https://getbootstrap.com/" target="blank">Bootstrap</a> - Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.
         </li>
       </ol>
   </details>
