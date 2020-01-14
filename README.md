@@ -149,6 +149,9 @@ By the end of the course you'll be able to pass a front end technical screen cov
       <li>
         <a href="https://codecourse.com/" target="blank">Codecourse</a> - Rather than just teach theory, we focus on real code to inspire your next project. Learning shouldn't be boring, so let's have some fun.
         </li>
+         <li>
+        <a href="https://javascript30.com/" target="blank">JavaScript 30</a> - 30 Day Vanilla JS Coding Challenge. Build 30 things in 30 days with 30 tutorials. No Frameworks. No Compilers. No Libraries. No Boilerplate.
+        </li>
     </ol>
   </details>
   
