@@ -80,6 +80,8 @@ By the end of the course you'll be able to pass a front end technical screen cov
         <li>
           <a href="https://www.theodinproject.com/" target="blank">The Odin Project</a> - The Odin Project is one of those "What I wish I had when I was learning" resources. Not everyone has access to a computer science education or the funds to attend an intensive coding school and neither of those is right for everyone anyway. This project is designed to fill in the gap for people who are trying to hack it on their own but still want a high quality education.
         </li>
+            <li>
+          <a href="https://bento.io/" target="blank">Bento</a> - Bento's mission is to make technology education and opportunity available to all. Bento is a technology education company focused on educating and empowering the next generatio of self-taught developers. 
       </ol>
   </details>
 
@@ -112,6 +114,9 @@ By the end of the course you'll be able to pass a front end technical screen cov
         </li>
         <li>
           <a href="https://www.coderbyte.com/">Coderbyte</a> - Coderbyte is a web application built to help you practice programming and improve your coding skills. We offer a collection of code challenges and web development courses that can help you prepare for upcoming job interviews. The coding challenges range in difficulty and they can all be completed straight in our online editor.
+        </li>
+           <li>
+          <a href="https://edabit.com/">Edabit</a> - We're like Duolingo for learning to code. When learning to code, most people get stuck on the "bridge" between memorizing syntax and understanding the logic that makes it all work. 
         </li>
         <li>
           <a href="https://www.pramp.com/" target="blank">Pramp</a> - Join thousands of professionals practicing live mock interviews & interview questions online, with peers, for free. We help you prep & land your dream tech job.
@@ -288,6 +293,9 @@ Discuss, collaborate, share — work is better without the inbox.
            <li>
           <a href="https://insomnia.rest/" target="blank">Insomnia</a> - Insomnia is a cross-platform GraphQL and REST client, available for Mac, Windows, and Linux.
           </li>
+                   <li>
+          <a href="https://www.girldevelopit.com/" target="blank">Girl Develop It</a> - Girl Develop It is a nonprofit organization that exists to provide affordable and judgment-free opportunities for women interested in learning web and software development. Through in-person classes and community support, Girl Develop It helps women of diverse backgrounds achieve their technology goals and build confidence in their careers and their every day lives.
+          </li>
       </ol>
   </details>
   <details open>
@@ -316,7 +324,10 @@ Discuss, collaborate, share — work is better without the inbox.
     <a href="https://overreacted.io/" target="blank">Overreacted</a> - Dan Abramov's `I explain with words and code.`
    </li>
   <li>
-    <a href="https://css-tricks.com/">CSS-Tricks</a> - Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.
+    <a href="https://css-tricks.com/" target="blank">CSS-Tricks</a> - Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.
+    </li>
+    <li>
+    <a href="https://davidwalsh.name/" target="blank">David Walsh</a> - A blog featuring tutorials about JavaScript, HTML5, AJAX, PHP, CSS, WordPress, and everything else development.
     </li>
   </ol>
 </details>
@@ -348,6 +359,9 @@ Discuss, collaborate, share — work is better without the inbox.
   <li>
     <a href="https://frontendhappyhour.com/">Front End Happy Hour</a> - A podcast featuring a panel of Software Engineers from Netflix, Twitch, Atlassian & Airbnb talking over drinks about all things Front End development.
    </li>
+    <li>
+    <a href="https://www.codenewbie.org/podcast">CodeNewbie</a> - CodeNewbie Podcast Stories from people on their coding journey.
+   </li>
   </ol>
 </details>
 
@@ -374,6 +388,18 @@ Discuss, collaborate, share — work is better without the inbox.
     </li>
       <li>
       <a href="https://www.ng-conf.org/" target="blank">NG-CONF</a> - World's Original Angular Conference.
+    </li>
+  </ol>
+</details>
+
+<details open>
+  <summary>Reddit Subreddits</summary>
+  <ol>
+    <li>
+      <a href="https://www.reddit.com/r/learnprogramming/" target="blank">Learn Programming</a> - A subreddit for all questions related to programming in any language.
+    </li>
+      <li>
+      <a href="https://www.reddit.com/r/dailyprogrammer/" target="blank">Daily Programmer</a> - 3 Programming Challenges a week!
     </li>
   </ol>
 </details>
