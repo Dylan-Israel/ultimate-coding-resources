@@ -281,10 +281,14 @@ Create, edit & deploy fullstack apps — in just one click.
             <li>
           <a href="https://repl.it/" target="blank">Repl.it</a> - Powerful and simple online compiler, IDE, interpreter, and REPL. Code, compile, and run code in 50+ programming languages.
         </li>
+                <li>
+          <a href="https://www.girldevelopit.com/" target="blank">Girl Develop It</a> - Girl Develop It is a nonprofit organization that exists to provide affordable and judgment-free opportunities for women interested in learning web and software development. Through in-person classes and community support, Girl Develop It helps women of diverse backgrounds achieve their technology goals and build confidence in their careers and their every day lives.
+          </li>
       </ol>
   </details>
    <details open>
     <summary>Sites - Tools</summary>
+    <details></details>
       <ol>
         <li>
           <a href="https://trello.com/" target="blank">Trello</a> - Whether it’s for work, a side project or even the next family vacation, Trello helps your team stay organized.
@@ -295,9 +299,6 @@ Discuss, collaborate, share — work is better without the inbox.
         </li>
            <li>
           <a href="https://github.com/" target="blank">Github</a> - We’re supporting a community where more than 40 million* people learn, share, and work together to build software.
-        </li>
-                   <li>
-          <a href="https://code.visualstudio.com/" target="blank">VSCode Text Editor</a> - Code editing. Redefined. Free. Built on open source. Runs everywhere.
         </li>
                <li>
           <a href="https://hyper.is/" target="blank">Hyper Terminal</a> - The goal of the project is to create a beautiful and extensible experience for command-line interface users, built on open web standards. In the beginning, our focus will be primarily around speed, stability and the development of the correct API for extension authors.
@@ -310,9 +311,6 @@ Discuss, collaborate, share — work is better without the inbox.
           </li>
            <li>
           <a href="https://insomnia.rest/" target="blank">Insomnia</a> - Insomnia is a cross-platform GraphQL and REST client, available for Mac, Windows, and Linux.
-          </li>
-                   <li>
-          <a href="https://www.girldevelopit.com/" target="blank">Girl Develop It</a> - Girl Develop It is a nonprofit organization that exists to provide affordable and judgment-free opportunities for women interested in learning web and software development. Through in-person classes and community support, Girl Develop It helps women of diverse backgrounds achieve their technology goals and build confidence in their careers and their every day lives.
           </li>
                        <li>
           <a href="https://www.gitkraken.com/" target="blank">GitKraken</a> - Unleash GitKraken! Three legendary developer productivity tools: the Git GUI Client for Windows/Mac/Linux development.
@@ -339,8 +337,42 @@ Discuss, collaborate, share — work is better without the inbox.
 </details>
 
 <details open>
-  <summary>Blogs</summary>
+  <summary>Package Managers</summary>
+  
+  <ol>
+  <li>
+    <a href="https://yarnpkg.com/" target="blank">Yarn</a> - Yarn caches every package it downloads so it never needs to download it again.
+  </li>
+    <li>
+    <a href="https://www.npmjs.com/" target="blank">npm</a> - We're npm, Inc., the company behind Node package manager, the npm Registry, and npm CLI. We offer those to the community for free, but our day job is building and selling useful tools for developers like you.
+</ol>
+  
+  </details>
 
+<details open>
+  <summary>Text Editors</summary>
+  <ol>
+               <li>
+          <a href="https://code.visualstudio.com/" target="blank">VSCode Text Editor</a> - Code editing. Redefined. Free. Built on open source. Runs everywhere.
+        </li>
+                   <li>
+          <a href="https://atom.io/" target="blank">Atom</a> - Teletype for Atom makes collaborating on code just as easy as it is to code alone, right from your editor.
+        </li>
+         <li>
+          <a href="https://www.sublimetext.com/" target="blank">Sublime</a> - Sublime Text is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
+        </li>
+    <li>
+              <a href="https://notepad-plus-plus.org/" target="blank">Notepad++</a> - Notepad++ is a free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several languages. Running in the MS Windows environment, its use is governed by GPL License.
+        </li>
+        <li>
+              <a href="https://www.vim.org/" target="blank">Vim</a> - Vim is a highly configurable text editor for efficiently creating and changing any kind of text. It is included as "vi" with most UNIX systems and with Apple OS X.
+        </li>
+</ol>
+  
+  </details>
+
+<details open>
+  <summary>Blogs</summary>
   <ol>
     <li><a href="https://www.programwitherik.com/" target="blank">Program with Erik</a> - Erik is a two time author, YouTuber, Podcastor an much more. His blog includes tutorials, rantings and musings on software development, with a focus on JavaScript, Ember.js, Vue.js and Node.js.
     </li>
