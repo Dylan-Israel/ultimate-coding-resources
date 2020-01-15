@@ -224,6 +224,18 @@ By the end of the course you'll be able to pass a front end technical screen cov
         <li>
           <a href="https://getbootstrap.com/" target="blank">Bootstrap</a> - Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.
         </li>
+                <li>
+          <a href="https://materializecss.com/" target="blank">Materialize</a> - Materialize is a modern responsive CSS framework based on Material Design by Google.
+        </li>
+             <li>
+          <a href="https://bulma.io/" target="blank">Bulma</a> - Bulma is a free, open source CSS framework based on Flexbox and built with Sass. It's 100% responsive, fully modular, and available for free.
+        </li>
+             <li>
+          <a href="https://getuikit.com/" target="blank">UIkit</a> - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
+        </li>
+          <li>
+          <a href="https://purecss.io/" target="blank">Pure.css</a> - A set of small, responsive CSS modules that you can use in every web project.
+        </li>
       </ol>
   </details>
      <details open>
