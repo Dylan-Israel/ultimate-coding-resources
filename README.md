@@ -157,6 +157,9 @@ By the end of the course you'll be able to pass a front end technical screen cov
          <li>
         <a href="https://javascript30.com/" target="blank">JavaScript 30</a> - 30 Day Vanilla JS Coding Challenge. Build 30 things in 30 days with 30 tutorials. No Frameworks. No Compilers. No Libraries. No Boilerplate.
         </li>
+         <li>
+        <a href="https://flexboxfroggy.com/" target="blank">Flexbox Froggy</a> - Welcome to Flexbox Froggy, a game where you help Froggy and friends by writing CSS code!
+        </li>
     </ol>
   </details>
   
