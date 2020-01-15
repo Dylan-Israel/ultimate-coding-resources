@@ -299,6 +299,12 @@ Discuss, collaborate, share — work is better without the inbox.
                    <li>
           <a href="https://www.girldevelopit.com/" target="blank">Girl Develop It</a> - Girl Develop It is a nonprofit organization that exists to provide affordable and judgment-free opportunities for women interested in learning web and software development. Through in-person classes and community support, Girl Develop It helps women of diverse backgrounds achieve their technology goals and build confidence in their careers and their every day lives.
           </li>
+                       <li>
+          <a href="https://www.gitkraken.com/" target="blank">GitKraken</a> - Unleash GitKraken! Three legendary developer productivity tools: the Git GUI Client for Windows/Mac/Linux development.
+          </li>
+              <li>
+          <a href="https://www.figma.com/" target="blank">Figma</a> - A better way to design. Design, prototype, and gather feedback all in one place with Figma.
+          </li>
       </ol>
   </details>
   <details open>
