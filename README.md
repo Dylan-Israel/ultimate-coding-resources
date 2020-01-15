@@ -404,6 +404,20 @@ Discuss, collaborate, share — work is better without the inbox.
       <li>
       <a href="https://www.reddit.com/r/dailyprogrammer/" target="blank">Daily Programmer</a> - 3 Programming Challenges a week!
     </li>
+       <li>
+      <a href="https://www.reddit.com/r/webdev/" target="blank">WebDev</a> - A community dedicated to all things web development: both front-end and back-end.
+    </li>   <li>
+      <a href="https://www.reddit.com/r/webdev/" target="blank">WebDev</a> - A community dedicated to all things web development: both front-end and back-end.
+    </li>
+       <li>
+      <a href="https://www.reddit.com/r/webdev/" target="blank">WebDev</a> - A community dedicated to all things web development: both front-end and back-end.
+    </li>
+           <li>
+      <a href="https://www.reddit.com/r/javascript/" target="blank">JavaScript</a> - All about the JavaScript programming language!
+    </li>
+               <li>
+      <a href="https://www.reddit.com/r/coding/" target="blank">Coding</a> - Welcome to r/coding
+    </li>
   </ol>
 </details>
 
