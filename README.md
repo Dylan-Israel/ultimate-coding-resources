@@ -637,17 +637,65 @@
 </details>
 
 <details open>
-  <summary>Conferences</summary>
+  <summary>VSCode Extensions</summary>
   <ol>
     <li>
       <a href="https://devfest.withgoogle.com/" target="blank">DevFest</a> - DevFests are community-led developer events
       hosted by Google Developer Groups around the globe. GDGs are focused on community building and learning about
       Google’s technologies.
     </li>
-    <li>
-      <a href="https://www.ng-conf.org/" target="blank">NG-CONF</a> - World's Original Angular Conference.
-    </li>
   </ol>
+</details>
+
+<details open>
+  <summary>Conferences</summary>
+  <ol>
+    <li>
+      <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer" target="blank">Live Server</a> - Launch a development local Server with live reload feature for static & dynamic pages.
+    </li>
+    <li>
+      <a href="https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync" target="blank">Settings Sync</a> - Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.
+    </li>
+    <li>
+      <a href="https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer" target="blank">Bracket Pair Colorizer</a> - A customizable extension for colorizing matching brackets.
+    </li>
+   <li>
+      <a href="https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode" target="blank">Quokka</a> - Live Scratchpad for JavaScript.
+    </li>
+   <li>
+      <a href="https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare" target="blank">Live Share</a> - Real-time collaborative development from the comfort of your favorite tools.
+    </li> 
+   <li>
+      <a href="https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker" target="blank">Code Spell Checker</a> - Spelling checker for source code.
+    </li>
+   <li>
+      <a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode#overview" target="blank">Prettier</a> - Prettier is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
+    </li>
+   <li>
+      <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag" target="blank">Auto Rename Tag</a> - Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
+    </li>  
+   <li>
+      <a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint" target="blank">ESLint</a> - The extension uses the ESLint library installed in the opened workspace folder. If the folder doesn't provide one the extension looks for a global install version. If you haven't installed ESLint either locally or globally do so by running npm install eslint in the workspace folder for a local install or npm install -g eslint for a global install.
+    </li> 
+   <li>
+      <a href="https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig" target="blank">EditorConfig</a> - This plugin attempts to override user/workspace settings with settings found in .editorconfig files. No additional or vscode-specific files are required. As with any EditorConfig plugin, if root=true is not specified, EditorConfig will continue to look for an .editorconfig file outside of the project.
+    </li>
+   <li>
+      <a href="https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview" target="blank">Browser Preview</a> - Browser Preview for VS Code enables you to open a real browser preview inside your editor that you can debug. Browser Preview is powered by Chrome Headless, and works by starting a headless Chrome instance in a new process. 
+    </li>
+   <li>
+      <a href="https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome" target="blank">Chrome Debugger</a> - Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.
+    </li>
+   <li>
+      <a href="https://marketplace.visualstudio.com/items?itemName=humao.rest-client" target="blank">REST Client</a> - REST Client allows you to send HTTP request and view the response in Visual Studio Code directly.
+    </li>  
+   <li>
+      <a href="https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost" target="blank">Import Cost</a> - This extension will display inline in the editor the size of the imported package. The extension utilizes webpack with babili-webpack-plugin in order to detect the imported size.
+    </li>
+   <li>
+      <a href="https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics" target="blank">Code Metrics</a> - Computes complexity in TypeScript / JavaScript / Lua files.
+    </li>      
+</ol>
 </details>
 
 <details open>
