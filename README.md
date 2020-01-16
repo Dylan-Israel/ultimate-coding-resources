@@ -82,7 +82,6 @@
       CODE, we see how this ingenuity and our very human compulsion to communicate have driven the technological
       innovations of the past two centuries.
     </li>
-
     <li>
       <a href="https://amzn.to/2ZYNDsJ" target="blank">Eloquent JavaScript: A Modern Introduction to Programming</a> -
       JavaScript lies at the heart of almost every modern web application, from social apps like Twitter to
@@ -639,18 +638,7 @@
 <details open>
   <summary>VSCode Extensions</summary>
   <ol>
-    <li>
-      <a href="https://devfest.withgoogle.com/" target="blank">DevFest</a> - DevFests are community-led developer events
-      hosted by Google Developer Groups around the globe. GDGs are focused on community building and learning about
-      Google’s technologies.
-    </li>
-  </ol>
-</details>
-
-<details open>
-  <summary>Conferences</summary>
-  <ol>
-    <li>
+     <li>
       <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer" target="blank">Live Server</a> - Launch a development local Server with live reload feature for static & dynamic pages.
     </li>
     <li>
@@ -695,6 +683,17 @@
    <li>
       <a href="https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics" target="blank">Code Metrics</a> - Computes complexity in TypeScript / JavaScript / Lua files.
     </li>      
+  </ol>
+</details>
+
+<details open>
+  <summary>Conferences</summary>
+  <ol>
+       <li>
+      <a href="https://devfest.withgoogle.com/" target="blank">DevFest</a> - DevFests are community-led developer events
+      hosted by Google Developer Groups around the globe. GDGs are focused on community building and learning about
+      Google’s technologies.
+    </li>
 </ol>
 </details>
 
