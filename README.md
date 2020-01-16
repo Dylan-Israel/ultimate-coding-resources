@@ -632,6 +632,13 @@
       closed group for technical enthusiasts interesting in hacking and coding. A place to openly discuss and share
       ideas and ask for help from real and certified hackers and programmers.
     </li>
+  <li>
+      <a href="https://www.facebook.com/programmingjokes" target="blank">Programming Jokes</a> - 1000+ Jokes Only Programmers Will Get
+    </li>
+      <li>
+      <a href="https://www.facebook.com/ilp18/" target="blank">I Love Programming</a> - Welcome to one of the most popular Facebook page related to programming :)
+Here we share best tutorials, news, YouTube videos and memes related to programming.
+    </li>    
   </ol>
 </details>
 
