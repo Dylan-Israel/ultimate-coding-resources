@@ -694,6 +694,12 @@
       hosted by Google Developer Groups around the globe. GDGs are focused on community building and learning about
       Google’s technologies.
     </li>
+      <li>	
+          <a href="https://www.ng-conf.org/" target="blank">NG-CONF</a> - World's Original Angular Conference.
+      </li>
+          <li>	
+          <a href="https://angelhack.com/" target="blank">AngelHack</a> - The world's most diverse hacker community, driving innovation of tech products through developer programs.
+      </li>
 </ol>
 </details>
 
