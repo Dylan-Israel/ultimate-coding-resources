@@ -378,7 +378,7 @@
     <summary>Sites - Hackathons</summary>
     <ol>
       <li>
-        <a href="https://angelhack.com/" target="blank">Meetup</a> - The world's most diverse hacker community, driving
+        <a href="https://angelhack.com/" target="blank">AngelHack</a> - The world's most diverse hacker community, driving
         innovation of tech products through developer programs.
       </li>
       <li>
@@ -396,6 +396,13 @@
       <li>
         <a href="https://code.org" target="blank">Code.org</a> - Code.org® is a nonprofit dedicated to expanding access
         to computer science in schools and increasing participation by women and underrepresented minorities.
+      </li>
+            <li>
+        <a href="https://www.girldevelopit.com/" target="blank">Girl Develop It</a> - Girl Develop It is a nonprofit
+        organization that exists to provide affordable and judgment-free opportunities for women interested in learning
+        web and software development. Through in-person classes and community support, Girl Develop It helps women of
+        diverse backgrounds achieve their technology goals and build confidence in their careers and their every day
+        lives.
       </li>
     </ol>
   </details>
@@ -419,13 +426,6 @@
       <li>
         <a href="https://repl.it/" target="blank">Repl.it</a> - Powerful and simple online compiler, IDE, interpreter,
         and REPL. Code, compile, and run code in 50+ programming languages.
-      </li>
-      <li>
-        <a href="https://www.girldevelopit.com/" target="blank">Girl Develop It</a> - Girl Develop It is a nonprofit
-        organization that exists to provide affordable and judgment-free opportunities for women interested in learning
-        web and software development. Through in-person classes and community support, Girl Develop It helps women of
-        diverse backgrounds achieve their technology goals and build confidence in their careers and their every day
-        lives.
       </li>
     </ol>
   </details>
