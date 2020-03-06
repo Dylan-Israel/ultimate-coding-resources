@@ -2,7 +2,7 @@
 <h1>Ultimate Coding Resources List</h1>
 <p>A collection of the best resources for programming, web development, computer science and more.</p>
 
-<small>DISCLAIMER: it is worth mentioning that less than 5% of resources included have affiliate links or items
+<small>DISCLAIMER: it is worth mentioning that a portion of resources (mainly courses and books) included have affiliate links or items
   mentioned are projects I have built that I directly benefit from their sale or use.</small>
 
 <details open>
@@ -720,14 +720,6 @@ Here we share best tutorials, news, YouTube videos and memes related to programm
     <li>
       <a href="https://www.reddit.com/r/dailyprogrammer/" target="blank">Daily Programmer</a> - 3 Programming Challenges
       a week!
-    </li>
-    <li>
-      <a href="https://www.reddit.com/r/webdev/" target="blank">WebDev</a> - A community dedicated to all things web
-      development: both front-end and back-end.
-    </li>
-    <li>
-      <a href="https://www.reddit.com/r/webdev/" target="blank">WebDev</a> - A community dedicated to all things web
-      development: both front-end and back-end.
     </li>
     <li>
       <a href="https://www.reddit.com/r/webdev/" target="blank">WebDev</a> - A community dedicated to all things web
