@@ -1,8 +1,8 @@
-
 <h1>Ultimate Coding Resources List</h1>
 <p>A collection of the best resources for programming, web development, computer science and more.</p>
 
-<small>DISCLAIMER: it is worth mentioning that a portion of resources (mainly courses and books) included have affiliate links or items
+<small>DISCLAIMER: it is worth mentioning that a portion of resources (mainly courses and books) included have affiliate
+  links or items
   mentioned are projects I have built that I directly benefit from their sale or use.</small>
 
 <details open>
@@ -153,6 +153,28 @@
         <a href="https://bento.io/" target="blank">Bento</a> - Bento's mission is to make technology education and
         opportunity available to all. Bento is a technology education company focused on educating and empowering the
         next generation of self-taught developers.
+      </li>
+      <li>
+        <a href="https://www.codecademy.com/" target="blank">Codecademy</a> - Codecademy is an education company. But
+        not one in the way you might think. We’re committed to building the best learning experience inside and out,
+        making Codecademy the best place for our team to learn, teach, and create the online learning experience of the
+        future.
+      </li>
+      <li>
+        <a href="https://www.pluralsight.com/" target="blank">Pluralsight</a> - At Pluralsight, we believe everyone
+        should have the opportunity to create progress through technology and develop the skills of tomorrow. With
+        assessments, learning paths and courses authored by industry experts, our platform helps businesses and
+        individuals benchmark expertise across roles, speed up release cycles and build reliable, secure products.
+      </li>
+      <li>
+        <a href="https://teamtreehouse.com/" target="blank">Treehouse</a> - Our mission is to diversify the tech
+        industry through accessible education and apprenticeship, unlocking the door to opportunity and empowering
+        people to achieve their dreams.
+      </li>
+      <li>
+        <a href="https://frontendmasters.com/" target="blank">FrontEndMasters</a> - Join Now and Learn Straight from the
+        Experts Who Shape the Modern Web
+      </li>
     </ol>
   </details>
   <details open>
@@ -211,6 +233,10 @@
       <li>
         <a href="https://www.pramp.com/" target="blank">Pramp</a> - Join thousands of professionals practicing live mock
         interviews & interview questions online, with peers, for free. We help you prep & land your dream tech job.
+      </li>
+      <li>
+        <a href="https://www.codility.com/" target="blank">Codility</a> - Codility is a software platform that helps
+        tech recruiters and hiring managers assess their candidates' skills by testing their code online.
       </li>
     </ol>
   </details>
@@ -378,7 +404,8 @@
     <summary>Sites - Hackathons</summary>
     <ol>
       <li>
-        <a href="https://angelhack.com/" target="blank">AngelHack</a> - The world's most diverse hacker community, driving
+        <a href="https://angelhack.com/" target="blank">AngelHack</a> - The world's most diverse hacker community,
+        driving
         innovation of tech products through developer programs.
       </li>
       <li>
@@ -397,7 +424,7 @@
         <a href="https://code.org" target="blank">Code.org</a> - Code.org® is a nonprofit dedicated to expanding access
         to computer science in schools and increasing participation by women and underrepresented minorities.
       </li>
-            <li>
+      <li>
         <a href="https://www.girldevelopit.com/" target="blank">Girl Develop It</a> - Girl Develop It is a nonprofit
         organization that exists to provide affordable and judgment-free opportunities for women interested in learning
         web and software development. Through in-person classes and community support, Girl Develop It helps women of
@@ -428,7 +455,9 @@
         and REPL. Code, compile, and run code in 50+ programming languages.
       </li>
       <li>
-        <a href="https://codesandbox.io/" target="blank">CodeSandbox.io</a> - Founded in 2017 by Ives van Hoorne and Bas Buursma, our mission is to make web development faster. By removing complexity we enable web developers to be more productive. By simplifying collaboration we make it easier for teams to work on code together.
+        <a href="https://codesandbox.io/" target="blank">CodeSandbox.io</a> - Founded in 2017 by Ives van Hoorne and Bas
+        Buursma, our mission is to make web development faster. By removing complexity we enable web developers to be
+        more productive. By simplifying collaboration we make it easier for teams to work on code together.
       </li>
     </ol>
   </details>
@@ -492,19 +521,22 @@
 <details open>
   <summary>Wireframes and Mockups</summary>
   <ol>
-        <li>
-      <a href="https://www.invisionapp.com/" target="blank">InVision</a> - InVision is the digital product design platform used to make the world's best customer experiences.
+    <li>
+      <a href="https://www.invisionapp.com/" target="blank">InVision</a> - InVision is the digital product design
+      platform used to make the world's best customer experiences.
     </li>
     <li>
-      <a href="https://balsamiq.com/" target="blank">Balsamiq</a> - Balsamiq is the company behind Balsamiq Wireframes, the industry standard low-fidelity wireframing tool.
+      <a href="https://balsamiq.com/" target="blank">Balsamiq</a> - Balsamiq is the company behind Balsamiq Wireframes,
+      the industry standard low-fidelity wireframing tool.
     </li>
     <li>
-        <a href="https://www.figma.com/" target="blank">Figma</a> - A better way to design. Design, prototype, and
-        gather feedback all in one place with Figma.
+      <a href="https://www.figma.com/" target="blank">Figma</a> - A better way to design. Design, prototype, and
+      gather feedback all in one place with Figma.
     </li>
     <li>
-        <a href="https://www.sketch.com/" target="blank">Sketch</a> - Sketch is a design toolkit built to help you create your best work — from your earliest ideas, through to final artwork.
-    </li>    
+      <a href="https://www.sketch.com/" target="blank">Sketch</a> - Sketch is a design toolkit built to help you create
+      your best work — from your earliest ideas, through to final artwork.
+    </li>
   </ol>
 </details>
 <details open>
@@ -635,82 +667,112 @@
       closed group for technical enthusiasts interesting in hacking and coding. A place to openly discuss and share
       ideas and ask for help from real and certified hackers and programmers.
     </li>
-  <li>
-      <a href="https://www.facebook.com/programmingjokes" target="blank">Programming Jokes</a> - 1000+ Jokes Only Programmers Will Get
+    <li>
+      <a href="https://www.facebook.com/programmingjokes" target="blank">Programming Jokes</a> - 1000+ Jokes Only
+      Programmers Will Get
     </li>
-      <li>
-      <a href="https://www.facebook.com/ilp18/" target="blank">I Love Programming</a> - Welcome to one of the most popular Facebook page related to programming :)
-Here we share best tutorials, news, YouTube videos and memes related to programming.
-    </li>    
+    <li>
+      <a href="https://www.facebook.com/ilp18/" target="blank">I Love Programming</a> - Welcome to one of the most
+      popular Facebook page related to programming :)
+      Here we share best tutorials, news, YouTube videos and memes related to programming.
+    </li>
   </ol>
 </details>
 
 <details open>
   <summary>VSCode Extensions</summary>
   <ol>
-     <li>
-      <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer" target="blank">Live Server</a> - Launch a development local Server with live reload feature for static & dynamic pages.
+    <li>
+      <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer" target="blank">Live Server</a>
+      - Launch a development local Server with live reload feature for static & dynamic pages.
     </li>
     <li>
-      <a href="https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync" target="blank">Settings Sync</a> - Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.
+      <a href="https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync" target="blank">Settings
+        Sync</a> - Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions
+      Across Multiple Machines Using GitHub Gist.
     </li>
     <li>
-      <a href="https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer" target="blank">Bracket Pair Colorizer</a> - A customizable extension for colorizing matching brackets.
+      <a href="https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer"
+        target="blank">Bracket Pair Colorizer</a> - A customizable extension for colorizing matching brackets.
     </li>
-   <li>
-      <a href="https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode" target="blank">Quokka</a> - Live Scratchpad for JavaScript.
+    <li>
+      <a href="https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode" target="blank">Quokka</a> -
+      Live Scratchpad for JavaScript.
     </li>
-   <li>
-      <a href="https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare" target="blank">Live Share</a> - Real-time collaborative development from the comfort of your favorite tools.
-    </li> 
-   <li>
-      <a href="https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker" target="blank">Code Spell Checker</a> - Spelling checker for source code.
+    <li>
+      <a href="https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare" target="blank">Live
+        Share</a> - Real-time collaborative development from the comfort of your favorite tools.
     </li>
-   <li>
-      <a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode#overview" target="blank">Prettier</a> - Prettier is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
+    <li>
+      <a href="https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker"
+        target="blank">Code Spell Checker</a> - Spelling checker for source code.
     </li>
-   <li>
-      <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag" target="blank">Auto Rename Tag</a> - Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
-    </li>  
-   <li>
-      <a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint" target="blank">ESLint</a> - The extension uses the ESLint library installed in the opened workspace folder. If the folder doesn't provide one the extension looks for a global install version. If you haven't installed ESLint either locally or globally do so by running npm install eslint in the workspace folder for a local install or npm install -g eslint for a global install.
-    </li> 
-   <li>
-      <a href="https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig" target="blank">EditorConfig</a> - This plugin attempts to override user/workspace settings with settings found in .editorconfig files. No additional or vscode-specific files are required. As with any EditorConfig plugin, if root=true is not specified, EditorConfig will continue to look for an .editorconfig file outside of the project.
+    <li>
+      <a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode#overview"
+        target="blank">Prettier</a> - Prettier is an opinionated code formatter. It enforces a consistent style by
+      parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping
+      code when necessary.
     </li>
-   <li>
-      <a href="https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview" target="blank">Browser Preview</a> - Browser Preview for VS Code enables you to open a real browser preview inside your editor that you can debug. Browser Preview is powered by Chrome Headless, and works by starting a headless Chrome instance in a new process. 
+    <li>
+      <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag" target="blank">Auto
+        Rename Tag</a> - Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
     </li>
-   <li>
-      <a href="https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome" target="blank">Chrome Debugger</a> - Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.
+    <li>
+      <a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint" target="blank">ESLint</a> -
+      The extension uses the ESLint library installed in the opened workspace folder. If the folder doesn't provide one
+      the extension looks for a global install version. If you haven't installed ESLint either locally or globally do so
+      by running npm install eslint in the workspace folder for a local install or npm install -g eslint for a global
+      install.
     </li>
-   <li>
-      <a href="https://marketplace.visualstudio.com/items?itemName=humao.rest-client" target="blank">REST Client</a> - REST Client allows you to send HTTP request and view the response in Visual Studio Code directly.
-    </li>  
-   <li>
-      <a href="https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost" target="blank">Import Cost</a> - This extension will display inline in the editor the size of the imported package. The extension utilizes webpack with babili-webpack-plugin in order to detect the imported size.
+    <li>
+      <a href="https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig"
+        target="blank">EditorConfig</a> - This plugin attempts to override user/workspace settings with settings found
+      in .editorconfig files. No additional or vscode-specific files are required. As with any EditorConfig plugin, if
+      root=true is not specified, EditorConfig will continue to look for an .editorconfig file outside of the project.
     </li>
-   <li>
-      <a href="https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics" target="blank">Code Metrics</a> - Computes complexity in TypeScript / JavaScript / Lua files.
-    </li>      
+    <li>
+      <a href="https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview"
+        target="blank">Browser Preview</a> - Browser Preview for VS Code enables you to open a real browser preview
+      inside your editor that you can debug. Browser Preview is powered by Chrome Headless, and works by starting a
+      headless Chrome instance in a new process.
+    </li>
+    <li>
+      <a href="https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome" target="blank">Chrome
+        Debugger</a> - Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome
+      Debugger protocol.
+    </li>
+    <li>
+      <a href="https://marketplace.visualstudio.com/items?itemName=humao.rest-client" target="blank">REST Client</a> -
+      REST Client allows you to send HTTP request and view the response in Visual Studio Code directly.
+    </li>
+    <li>
+      <a href="https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost" target="blank">Import
+        Cost</a> - This extension will display inline in the editor the size of the imported package. The extension
+      utilizes webpack with babili-webpack-plugin in order to detect the imported size.
+    </li>
+    <li>
+      <a href="https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics" target="blank">Code
+        Metrics</a> - Computes complexity in TypeScript / JavaScript / Lua files.
+    </li>
   </ol>
 </details>
 
 <details open>
   <summary>Conferences</summary>
   <ol>
-       <li>
+    <li>
       <a href="https://devfest.withgoogle.com/" target="blank">DevFest</a> - DevFests are community-led developer events
       hosted by Google Developer Groups around the globe. GDGs are focused on community building and learning about
       Google’s technologies.
     </li>
-      <li>	
-          <a href="https://www.ng-conf.org/" target="blank">NG-CONF</a> - World's Original Angular Conference.
-      </li>
-          <li>	
-          <a href="https://angelhack.com/" target="blank">AngelHack</a> - The world's most diverse hacker community, driving innovation of tech products through developer programs.
-      </li>
-</ol>
+    <li>
+      <a href="https://www.ng-conf.org/" target="blank">NG-CONF</a> - World's Original Angular Conference.
+    </li>
+    <li>
+      <a href="https://angelhack.com/" target="blank">AngelHack</a> - The world's most diverse hacker community, driving
+      innovation of tech products through developer programs.
+    </li>
+  </ol>
 </details>
 
 <details open>
