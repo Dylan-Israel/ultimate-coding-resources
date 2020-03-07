@@ -298,38 +298,6 @@
     </ol>
   </details>
   <details open>
-    <summary>YouTube Channels</summary>
-    <ol>
-      <li>
-        <a href="https://www.youtube.com/user/pizzapokerguy87" target="blank">Dylan Israel</a> - Dylan is a self-taught programmer who  produces some amazing content, both informational and tutorials videos.
-      </li>
-      <li>
-        <a href="https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA" target="blank">Traversy Media</a> - Brad is also a self-taught programmer who produces informational and tutorial based videos.
-      </li>
-      <li>
-        <a href="https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w" target="blank">Academind</a> - Web development tutorial videos.
-      </li>
-      <li>
-        <a href="https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow" target="blank">DesignCourse</a> - Gary teach full stack development. Which means you will see tutorials regarding UI/UX, Frontend Dev, Backend Dev, Graphic Design and more.
-      </li>
-      <li>
-        <a href="https://www.youtube.com/channel/UCAQjmY2DJqwU3Eqz0oN83aw" target="blank">Eduonix Learning Solutions</a> - Eduonix Learning Solutions is an esteemed name in the e-learning field and has a vast library of web designing and development courses to help cater the learning needs of all individuals.
-      </li>
-      <li>
-        <a href="https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ" target="blank">freeCodeCamp.org</a> - Hours and hours of tutorial videos.
-      </li>
-      <li>
-        <a href="https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw" target="blank">IAmTimCorey</a> - Tim creates courses dedicated to C#, SQL and more.
-      </li>
-      <li>
-        <a href="https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA" target="blank">Programming with Mosh</a> - Mosh produces amazing courses for both frontend and backend development.
-      </li>
-      <li>
-        <a href="https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/featured" target="blank">The Net Ninja</a> - Tutorials on Modern JavaScript (beginner to advanced), Node.js, React, Vue.js, Firebase, MongoDB, HTML & CSS, Plus loads more.
-      </li>
-    </ol>
-  </details>
-  <details open>
     <summary>Sites - Career & Job Sites</summary>
     <ol>
       <li>
@@ -555,6 +523,39 @@
     </ol>
   </details>
 </details>
+
+<details open>
+    <summary>YouTube Channels</summary>
+    <ol>
+      <li>
+        <a href="https://www.youtube.com/user/pizzapokerguy87" target="blank">Dylan Israel</a> - Dylan is a self-taught programmer who  produces some amazing content, both informational and tutorials videos.
+      </li>
+      <li>
+        <a href="https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA" target="blank">Traversy Media</a> - Brad is also a self-taught programmer who produces informational and tutorial based videos.
+      </li>
+      <li>
+        <a href="https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w" target="blank">Academind</a> - Web development tutorial videos.
+      </li>
+      <li>
+        <a href="https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow" target="blank">DesignCourse</a> - Gary teach full stack development. Which means you will see tutorials regarding UI/UX, Frontend Dev, Backend Dev, Graphic Design and more.
+      </li>
+      <li>
+        <a href="https://www.youtube.com/channel/UCAQjmY2DJqwU3Eqz0oN83aw" target="blank">Eduonix Learning Solutions</a> - Eduonix Learning Solutions is an esteemed name in the e-learning field and has a vast library of web designing and development courses to help cater the learning needs of all individuals.
+      </li>
+      <li>
+        <a href="https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ" target="blank">freeCodeCamp.org</a> - Hours and hours of tutorial videos.
+      </li>
+      <li>
+        <a href="https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw" target="blank">IAmTimCorey</a> - Tim creates courses dedicated to C#, SQL and more.
+      </li>
+      <li>
+        <a href="https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA" target="blank">Programming with Mosh</a> - Mosh produces amazing courses for both frontend and backend development.
+      </li>
+      <li>
+        <a href="https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/featured" target="blank">The Net Ninja</a> - Tutorials on Modern JavaScript (beginner to advanced), Node.js, React, Vue.js, Firebase, MongoDB, HTML & CSS, Plus loads more.
+      </li>
+    </ol>
+  </details>
 
 <details open>
   <summary>Wireframes and Mockups</summary>
