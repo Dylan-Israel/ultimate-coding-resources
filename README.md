@@ -161,7 +161,7 @@
         future.
       </li>
       <li>
-        <a href="https://www.pluralsight.com/" target="blank">Pluralsight</a> - At Pluralsight, we believe everyone
+        <a href="https://pluralsight.pxf.io/YaAdK" target="blank">Pluralsight</a> - At Pluralsight, we believe everyone
         should have the opportunity to create progress through technology and develop the skills of tomorrow. With
         assessments, learning paths and courses authored by industry experts, our platform helps businesses and
         individuals benchmark expertise across roles, speed up release cycles and build reliable, secure products.
@@ -174,6 +174,9 @@
       <li>
         <a href="https://frontendmasters.com/" target="blank">FrontEndMasters</a> - Join Now and Learn Straight from the
         Experts Who Shape the Modern Web
+      </li>
+       <li>
+        <a href="https://linkedin-learning.pxf.io/eWX26" target="blank">LinkedIn Learning</a> - Formally Linda, LinkedIn Learning is one of the worlds largest course platforms with content being created monthly.
       </li>
     </ol>
   </details>
@@ -430,6 +433,9 @@
         web and software development. Through in-person classes and community support, Girl Develop It helps women of
         diverse backgrounds achieve their technology goals and build confidence in their careers and their every day
         lives.
+      </li>
+           <li>
+        <a href="https://dev.to/" target="blank">Dev.to</a> - DEV is a community of software developers getting together to help one another out. The software industry relies on collaboration and networked learning. We provide a place for that to happen.
       </li>
     </ol>
   </details>
