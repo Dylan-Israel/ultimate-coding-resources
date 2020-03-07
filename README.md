@@ -92,6 +92,19 @@
 </details>
 
 <details open>
+  <summary>Book Summaries</summary>
+  <ol>
+    <li>
+      1. [Javascript, the Good Parts](https://github.com/ahmaazouzi/js_good_parts).
+    </li>
+    <li>
+      2. [The UNIX Programming Environment](https://github.com/ahmaazouzi/unix_programming_environment). A summary of the first five chapters of one of kernighan's classics.
+    </li>
+  </ol>
+</details>
+  
+
+<details open>
   <summary>Courses</summary>
   <ol>
     <li>
