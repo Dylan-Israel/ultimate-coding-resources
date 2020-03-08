@@ -184,7 +184,7 @@
     <summary>Sites - Algorithm Platforms</summary>
     <ol>
       <li>
-        <a href="algoexpert.io/codinggod" target="blank">AlgoExpert</a> - If you want to ace the tech interview, being
+        <a href="https://www.algoexpert.io/" target="blank">AlgoExpert</a> - If you want to ace the tech interview, being
         well-versed in all common data structures and popular problem-solving methods is paramount. With 85 questions
         spanning 14 categories and 5 difficulty levels, we've got you covered.
       </li>
