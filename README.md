@@ -241,6 +241,16 @@
         <a href="https://www.codility.com/" target="blank">Codility</a> - Codility is a software platform that helps
         tech recruiters and hiring managers assess their candidates' skills by testing their code online.
       </li>
+      <li>
+        <a href="https://www.codeabbey.com/" target="blank">CodeAbbey</a> - CodeAbbey hosts a series of simple to complex
+        programming problems that allow the user to practice their ability to solve problems.
+      </li>
+      <li>
+        <a href="https://adventofcode.com/" target="blank">Advent of Code</a> - Advent of Code is an Advent calendar of 
+        small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming 
+        language you like. People use them as a speed contest, interview prep, company training, university coursework, 
+        practice problems, or to challenge each other.
+      </li>
     </ol>
   </details>
   <details open>
