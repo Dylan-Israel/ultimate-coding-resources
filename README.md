@@ -246,7 +246,7 @@
         programming problems that allow the user to practice their ability to solve problems.
       </li>
       <li>
-        <a href="https://adventofcode.com/" targe="blank">Advent of Code</a> - Advent of Code is an Advent calendar of 
+        <a href="https://adventofcode.com/" target="blank">Advent of Code</a> - Advent of Code is an Advent calendar of 
         small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming 
         language you like. People use them as a speed contest, interview prep, company training, university coursework, 
         practice problems, or to challenge each other.
