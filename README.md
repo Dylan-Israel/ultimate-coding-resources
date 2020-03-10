@@ -88,6 +88,9 @@
       browser-based game frameworks like Phaser and Babylon. Though simple for beginners to pick up and play with,
       JavaScript is a flexible, complex language that you can use to build full-scale applications.
     </li>
+    <li>
+      <a href="https://amzn.to/2TWfwPg" target="blank">Structure and Interpretation of Computer Programs</a> - Structure and Interpretation of Computer Programs has had a dramatic impact on computer science curricula over the past decade. This long-awaited revision contains changes throughout the text. There are new implementations of most of the major programming systems in the book, including the interpreters and compilers, and the authors have incorporated many small changes that reflect their experience teaching the course at MIT since the first edition was published. A new theme has been introduced that emphasizes the central role played by different approaches to dealing with time in computational models: objects with state, concurrent programming, functional programming and lazy evaluation, and nondeterministic programming.
+    </li>
   </ol>
 </details>
 
@@ -343,6 +346,9 @@
       <li>
         <a href="https://www.salary.com/">Salary</a> - Understand your worth and plan your next career move with
         easy-to-use tools.
+      </li>
+      <li>
+        <a href="https://www.linkedin.com/" target="blank>LinkedIn</a> - Welcome to LinkedIn, the world's largest professional network with nearly 660+ million users in more than 200 countries and territories worldwide.
       </li>
     </ol>
   </details>
