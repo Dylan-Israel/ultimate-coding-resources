@@ -564,6 +564,9 @@
       <li>
         <a href="https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/featured" target="blank">The Net Ninja</a> - Tutorials on Modern JavaScript (beginner to advanced), Node.js, React, Vue.js, Firebase, MongoDB, HTML & CSS, Plus loads more.
       </li>
+      <li>
+        <a href="https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q" target="blank">Dev Ed</a> - Very Funny and Good Tutorials on Modern JavaScript (beginner to advanced), Node.js, React, Vue.js,CSS coolAnimations, HTML & CSS, Plus loads more.
+      </li>
     </ol>
   </details>
 
