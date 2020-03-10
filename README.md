@@ -902,3 +902,15 @@
     </li>
   </ol>
 </details>
+
+<details open>
+  <summary>Repos</summary>
+  <ol>
+    <li><a href="https://github.com/ErikCH/DevYouTubeList" target="blank">Dev YouTube List</a> - A curated list of amazing development channels on YouTube. These include web development, back-end development, front-end development live coders and more!
+    </li>
+        <li><a href="https://github.com/ryanmcdermott/clean-code-javascript" target="blank">Clean Code JavaScript</a> - Software engineering principles, from Robert C. Martin's book Clean Code, adapted for JavaScript. This is not a style guide. It's a guide to producing readable, reusable, and refactorable software in JavaScript.
+    </li>
+            <li><a href="https://github.com/getify/You-Dont-Know-JS" target="blank">You Don't Know JS</a> - This is a series of books diving deep into the core mechanisms of the JavaScript language.
+    </li>
+  </ol>
+</details>
