@@ -89,7 +89,14 @@
       JavaScript is a flexible, complex language that you can use to build full-scale applications.
     </li>
     <li>
-      <a href="https://amzn.to/2TWfwPg" target="blank">Structure and Interpretation of Computer Programs</a> - Structure and Interpretation of Computer Programs has had a dramatic impact on computer science curricula over the past decade. This long-awaited revision contains changes throughout the text. There are new implementations of most of the major programming systems in the book, including the interpreters and compilers, and the authors have incorporated many small changes that reflect their experience teaching the course at MIT since the first edition was published. A new theme has been introduced that emphasizes the central role played by different approaches to dealing with time in computational models: objects with state, concurrent programming, functional programming and lazy evaluation, and nondeterministic programming.
+      <a href="https://amzn.to/2TWfwPg" target="blank">Structure and Interpretation of Computer Programs</a> - Structure
+      and Interpretation of Computer Programs has had a dramatic impact on computer science curricula over the past
+      decade. This long-awaited revision contains changes throughout the text. There are new implementations of most of
+      the major programming systems in the book, including the interpreters and compilers, and the authors have
+      incorporated many small changes that reflect their experience teaching the course at MIT since the first edition
+      was published. A new theme has been introduced that emphasizes the central role played by different approaches to
+      dealing with time in computational models: objects with state, concurrent programming, functional programming and
+      lazy evaluation, and nondeterministic programming.
     </li>
   </ol>
 </details>
@@ -178,8 +185,9 @@
         <a href="https://frontendmasters.com/" target="blank">FrontEndMasters</a> - Join Now and Learn Straight from the
         Experts Who Shape the Modern Web
       </li>
-       <li>
-        <a href="https://linkedin-learning.pxf.io/eWX26" target="blank">LinkedIn Learning</a> - Formally Linda, LinkedIn Learning is one of the worlds largest course platforms with content being created monthly.
+      <li>
+        <a href="https://linkedin-learning.pxf.io/eWX26" target="blank">LinkedIn Learning</a> - Formally Linda, LinkedIn
+        Learning is one of the worlds largest course platforms with content being created monthly.
       </li>
     </ol>
   </details>
@@ -187,7 +195,8 @@
     <summary>Sites - Algorithm Platforms</summary>
     <ol>
       <li>
-        <a href="https://www.algoexpert.io/codinggod" target="blank">AlgoExpert</a> - If you want to ace the tech interview, being
+        <a href="https://www.algoexpert.io/codinggod" target="blank">AlgoExpert</a> - If you want to ace the tech
+        interview, being
         well-versed in all common data structures and popular problem-solving methods is paramount. With 85 questions
         spanning 14 categories and 5 difficulty levels, we've got you covered.
       </li>
@@ -245,13 +254,14 @@
         tech recruiters and hiring managers assess their candidates' skills by testing their code online.
       </li>
       <li>
-        <a href="https://www.codeabbey.com/" target="blank">CodeAbbey</a> - CodeAbbey hosts a series of simple to complex
+        <a href="https://www.codeabbey.com/" target="blank">CodeAbbey</a> - CodeAbbey hosts a series of simple to
+        complex
         programming problems that allow the user to practice their ability to solve problems.
       </li>
       <li>
-        <a href="https://adventofcode.com/" target="blank">Advent of Code</a> - Advent of Code is an Advent calendar of 
-        small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming 
-        language you like. People use them as a speed contest, interview prep, company training, university coursework, 
+        <a href="https://adventofcode.com/" target="blank">Advent of Code</a> - Advent of Code is an Advent calendar of
+        small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming
+        language you like. People use them as a speed contest, interview prep, company training, university coursework,
         practice problems, or to challenge each other.
       </li>
     </ol>
@@ -350,6 +360,11 @@
       <li>
         <a href="https://www.linkedin.com/" target="blank>LinkedIn</a> - Welcome to LinkedIn, the world's largest professional network with nearly 660+ million users in more than 200 countries and territories worldwide.
       </li>
+      <li>
+                                                    <a href=" https://resume.github.io/" target="blank">Github
+          Resume</a> - As a software startup owner I really enjoy when people send us their résumés and they include
+        their github account so we can see tangible work they have done.
+      </li>
     </ol>
   </details>
   <details open>
@@ -373,6 +388,10 @@
       <li>
         <a href="https://devdocs.io/">DevDocs</a> - Fast, offline, and free documentation browser for developers. Search
         100+ docs in one web app.
+      </li>
+      <li>
+        <a href="https://www.30secondsofcode.org/">30 Seconds of Code</a> - Short code snippets for all your development
+        needs.
       </li>
     </ol>
   </details>
@@ -450,8 +469,10 @@
         diverse backgrounds achieve their technology goals and build confidence in their careers and their every day
         lives.
       </li>
-           <li>
-        <a href="https://dev.to/" target="blank">Dev.to</a> - DEV is a community of software developers getting together to help one another out. The software industry relies on collaboration and networked learning. We provide a place for that to happen.
+      <li>
+        <a href="https://dev.to/" target="blank">Dev.to</a> - DEV is a community of software developers getting together
+        to help one another out. The software industry relies on collaboration and networked learning. We provide a
+        place for that to happen.
       </li>
     </ol>
   </details>
@@ -541,40 +562,54 @@
 </details>
 
 <details open>
-    <summary>YouTube Channels</summary>
-    <ol>
-      <li>
-        <a href="https://www.youtube.com/user/pizzapokerguy87" target="blank">Dylan Israel</a> - Dylan is a self-taught programmer who  produces some amazing content, both informational and tutorials videos.
-      </li>
-      <li>
-        <a href="https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA" target="blank">Traversy Media</a> - Brad is also a self-taught programmer who produces informational and tutorial based videos.
-      </li>
-      <li>
-        <a href="https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w" target="blank">Academind</a> - Web development tutorial videos.
-      </li>
-      <li>
-        <a href="https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow" target="blank">DesignCourse</a> - Gary teach full stack development. Which means you will see tutorials regarding UI/UX, Frontend Dev, Backend Dev, Graphic Design and more.
-      </li>
-      <li>
-        <a href="https://www.youtube.com/channel/UCAQjmY2DJqwU3Eqz0oN83aw" target="blank">Eduonix Learning Solutions</a> - Eduonix Learning Solutions is an esteemed name in the e-learning field and has a vast library of web designing and development courses to help cater the learning needs of all individuals.
-      </li>
-      <li>
-        <a href="https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ" target="blank">freeCodeCamp.org</a> - Hours and hours of tutorial videos.
-      </li>
-      <li>
-        <a href="https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw" target="blank">IAmTimCorey</a> - Tim creates courses dedicated to C#, SQL and more.
-      </li>
-      <li>
-        <a href="https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA" target="blank">Programming with Mosh</a> - Mosh produces amazing courses for both frontend and backend development.
-      </li>
-      <li>
-        <a href="https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/featured" target="blank">The Net Ninja</a> - Tutorials on Modern JavaScript (beginner to advanced), Node.js, React, Vue.js, Firebase, MongoDB, HTML & CSS, Plus loads more.
-      </li>
-      <li>
-        <a href="https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q" target="blank">Dev Ed</a> - Very Funny and Good Tutorials on Modern JavaScript (beginner to advanced), Node.js, React, Vue.js,CSS coolAnimations, HTML & CSS, Plus loads more.
-      </li>
-    </ol>
-  </details>
+  <summary>YouTube Channels</summary>
+  <ol>
+    <li>
+      <a href="https://www.youtube.com/user/pizzapokerguy87" target="blank">Dylan Israel</a> - Dylan is a self-taught
+      programmer who produces some amazing content, both informational and tutorials videos.
+    </li>
+    <li>
+      <a href="https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA" target="blank">Traversy Media</a> - Brad is
+      also a self-taught programmer who produces informational and tutorial based videos.
+    </li>
+    <li>
+      <a href="https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w" target="blank">Academind</a> - Web development
+      tutorial videos.
+    </li>
+    <li>
+      <a href="https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow" target="blank">DesignCourse</a> - Gary teach
+      full stack development. Which means you will see tutorials regarding UI/UX, Frontend Dev, Backend Dev, Graphic
+      Design and more.
+    </li>
+    <li>
+      <a href="https://www.youtube.com/channel/UCAQjmY2DJqwU3Eqz0oN83aw" target="blank">Eduonix Learning Solutions</a> -
+      Eduonix Learning Solutions is an esteemed name in the e-learning field and has a vast library of web designing and
+      development courses to help cater the learning needs of all individuals.
+    </li>
+    <li>
+      <a href="https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ" target="blank">freeCodeCamp.org</a> - Hours and
+      hours of tutorial videos.
+    </li>
+    <li>
+      <a href="https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw" target="blank">IAmTimCorey</a> - Tim creates
+      courses dedicated to C#, SQL and more.
+    </li>
+    <li>
+      <a href="https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA" target="blank">Programming with Mosh</a> - Mosh
+      produces amazing courses for both frontend and backend development.
+    </li>
+    <li>
+      <a href="https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/featured" target="blank">The Net Ninja</a> -
+      Tutorials on Modern JavaScript (beginner to advanced), Node.js, React, Vue.js, Firebase, MongoDB, HTML & CSS, Plus
+      loads more.
+    </li>
+    <li>
+      <a href="https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q" target="blank">Dev Ed</a> - Very Funny and Good
+      Tutorials on Modern JavaScript (beginner to advanced), Node.js, React, Vue.js,CSS coolAnimations, HTML & CSS, Plus
+      loads more.
+    </li>
+  </ol>
+</details>
 
 <details open>
   <summary>Wireframes and Mockups</summary>
@@ -637,8 +672,9 @@
       <a href="https://www.vim.org/" target="blank">Vim</a> - Vim is a highly configurable text editor for efficiently
       creating and changing any kind of text. It is included as "vi" with most UNIX systems and with Apple OS X.
     </li>
-     <li>
-      <a href="http://brackets.io/" target="blank">Brackets</a> - A modern, open source text editor that understands web design.
+    <li>
+      <a href="http://brackets.io/" target="blank">Brackets</a> - A modern, open source text editor that understands web
+      design.
     </li>
   </ol>
 
@@ -909,11 +945,16 @@
 <details open>
   <summary>Repos</summary>
   <ol>
-    <li><a href="https://github.com/ErikCH/DevYouTubeList" target="blank">Dev YouTube List</a> - A curated list of amazing development channels on YouTube. These include web development, back-end development, front-end development live coders and more!
+    <li><a href="https://github.com/ErikCH/DevYouTubeList" target="blank">Dev YouTube List</a> - A curated list of
+      amazing development channels on YouTube. These include web development, back-end development, front-end
+      development live coders and more!
     </li>
-        <li><a href="https://github.com/ryanmcdermott/clean-code-javascript" target="blank">Clean Code JavaScript</a> - Software engineering principles, from Robert C. Martin's book Clean Code, adapted for JavaScript. This is not a style guide. It's a guide to producing readable, reusable, and refactorable software in JavaScript.
+    <li><a href="https://github.com/ryanmcdermott/clean-code-javascript" target="blank">Clean Code JavaScript</a> -
+      Software engineering principles, from Robert C. Martin's book Clean Code, adapted for JavaScript. This is not a
+      style guide. It's a guide to producing readable, reusable, and refactorable software in JavaScript.
     </li>
-            <li><a href="https://github.com/getify/You-Dont-Know-JS" target="blank">You Don't Know JS</a> - This is a series of books diving deep into the core mechanisms of the JavaScript language.
+    <li><a href="https://github.com/getify/You-Dont-Know-JS" target="blank">You Don't Know JS</a> - This is a series of
+      books diving deep into the core mechanisms of the JavaScript language.
     </li>
   </ol>
 </details>
