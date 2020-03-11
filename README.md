@@ -566,6 +566,9 @@
       also a self-taught programmer who produces informational and tutorial based videos.
     </li>
     <li>
+      <a href="https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw" target="blank">Program with Erik</a> - My name is Erik Hanchett and I'm a web and Java developer from Reno, Nevada. I've been a programmer for many years now and I've always been wanting to give back to the community.
+    </li>  
+    <li>
       <a href="https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w" target="blank">Academind</a> - Web development
       tutorial videos.
     </li>
