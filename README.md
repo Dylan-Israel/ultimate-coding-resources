@@ -637,6 +637,9 @@
       <a href="https://www.vim.org/" target="blank">Vim</a> - Vim is a highly configurable text editor for efficiently
       creating and changing any kind of text. It is included as "vi" with most UNIX systems and with Apple OS X.
     </li>
+     <li>
+      <a href="http://brackets.io/" target="blank">Brackets</a> - A modern, open source text editor that understands web design.
+    </li>
   </ol>
 
 </details>
