@@ -319,10 +319,14 @@
         you help Froggy and friends by writing CSS code!
       </li>
       <li>
-        <a href="https://ocw.mit.edu/index.htm" target="blank">MIT OpenCourseWare</a> - MIT OpenCourseWare is a web-based publication of virtually all MIT course content. OCW is open and available to the world and is a permanent MIT activity.
+        <a href="https://ocw.mit.edu/index.htm" target="blank">MIT OpenCourseWare</a> - MIT OpenCourseWare is a
+        web-based publication of virtually all MIT course content. OCW is open and available to the world and is a
+        permanent MIT activity.
       </li>
-            <li>
-        <a href="https://www.coursera.org/" target="blank">Coursera</a> - Join Coursera for free and learn online. Build skills with courses from top universities like Yale, Michigan, Stanford, and leading companies like Google and IBM.
+      <li>
+        <a href="https://www.coursera.org/" target="blank">Coursera</a> - Join Coursera for free and learn online. Build
+        skills with courses from top universities like Yale, Michigan, Stanford, and leading companies like Google and
+        IBM.
       </li>
     </ol>
   </details>
@@ -364,12 +368,17 @@
         easy-to-use tools.
       </li>
       <li>
-        <a href="https://www.linkedin.com/" target="blank>LinkedIn</a> - Welcome to LinkedIn, the world's largest professional network with nearly 660+ million users in more than 200 countries and territories worldwide.
+        <a href="https://www.linkedin.com/" target="blank">LinkedIn</a> - Welcome to LinkedIn, the world's largest
+        professional network with nearly 660+ million users in more than 200 countries and territories worldwide.
       </li>
       <li>
         <a href=" https://resume.github.io/" target="blank">Github
           Resume</a> - As a software startup owner I really enjoy when people send us their résumés and they include
         their github account so we can see tangible work they have done.
+      </li>
+      <li>
+        <a href="https://hashnode.com/" target="blank">HashNode</a> - Hashnode is the easiest way to connect with the
+        best developers from around the world and grow your career!
       </li>
     </ol>
   </details>
@@ -457,27 +466,7 @@
       </li>
     </ol>
   </details>
-  <details open>
-    <summary>Sites - Community</summary>
-    <ol>
-      <li>
-        <a href="https://www.meetup.com/" target="blank">Meetup</a> - Find Meetups so you can do more of what matters to
-        you. Or create your own group and meet people near you who share your interests.
-      </li>
-      <li>
-        <a href="https://code.org" target="blank">Code.org</a> - Code.org® is a nonprofit dedicated to expanding access
-        to computer science in schools and increasing participation by women and underrepresented minorities.
-      </li>
-      <li>
-        <a href="https://www.womenwhocode.com/" target="blank">Women Who Code</a> - Women Who Code (WWCode) is a global 501(c)(3) non-profit organization dedicated to inspiring women to excel in technology careers.
-      </li>
-      <li>
-        <a href="https://dev.to/" target="blank">Dev.to</a> - DEV is a community of software developers getting together
-        to help one another out. The software industry relies on collaboration and networked learning. We provide a
-        place for that to happen.
-      </li>
-    </ol>
-  </details>
+
   <details open>
     <summary>Sites - Code Playgrounds</summary>
     <ol>
@@ -506,6 +495,7 @@
       </li>
     </ol>
   </details>
+
   <details open>
     <summary>Sites - Tools</summary>
     <ol>
@@ -545,6 +535,7 @@
       </li>
     </ol>
   </details>
+
   <details open>
     <summary>Sites - Misc</summary>
     <ol>
@@ -634,6 +625,7 @@
     </li>
   </ol>
 </details>
+
 <details open>
   <summary>Package Managers</summary>
 
@@ -700,6 +692,11 @@
       <a href="https://davidwalsh.name/" target="blank">David Walsh</a> - A blog featuring tutorials about JavaScript,
       HTML5, AJAX, PHP, CSS, WordPress, and everything else development.
     </li>
+    <li>
+      <a href="https://www.freecodecamp.org/news/" target="blank">FreeCodeCamp</a> - Learn to code. Build projects. Earn
+      certifications. Since 2015, 40000 graduates have gotten jobs at tech companies including Google, Apple, Amazon and
+      more.
+    </li>
   </ol>
 </details>
 
@@ -745,35 +742,6 @@
     <li>
       <a href="https://www.codenewbie.org/podcast">CodeNewbie</a> - CodeNewbie Podcast Stories from people on their
       coding journey.
-    </li>
-  </ol>
-</details>
-
-<details open>
-  <summary>Facebook Groups</summary>
-  <ol>
-    <li>
-      <a href="https://www.facebook.com/groups/190277791450732/">Code, Tech & Caffeine</a> - Coding noobs to senior devs
-      to those just interested in technology this group is for you. This group is devoted to sharing helpful and
-      interesting items in software and technology.
-    </li>
-    <li>
-      <a href="https://www.facebook.com/groups/759985267390294" target="blank">Hackathon Hackers</a> - This is the
-      all-inclusive hackathons group.
-    </li>
-    <li>
-      <a href="https://www.facebook.com/groups/318334558529855" target="blank">Hacking and Coding Tutorials</a> - A
-      closed group for technical enthusiasts interesting in hacking and coding. A place to openly discuss and share
-      ideas and ask for help from real and certified hackers and programmers.
-    </li>
-    <li>
-      <a href="https://www.facebook.com/programmingjokes" target="blank">Programming Jokes</a> - 1000+ Jokes Only
-      Programmers Will Get
-    </li>
-    <li>
-      <a href="https://www.facebook.com/ilp18/" target="blank">I Love Programming</a> - Welcome to one of the most
-      popular Facebook page related to programming :)
-      Here we share best tutorials, news, YouTube videos and memes related to programming.
     </li>
   </ol>
 </details>
@@ -875,28 +843,93 @@
 </details>
 
 <details open>
-  <summary>Reddit Subreddits</summary>
-  <ol>
-    <li>
-      <a href="https://www.reddit.com/r/learnprogramming/" target="blank">Learn Programming</a> - A subreddit for all
-      questions related to programming in any language.
-    </li>
-    <li>
-      <a href="https://www.reddit.com/r/dailyprogrammer/" target="blank">Daily Programmer</a> - 3 Programming Challenges
-      a week!
-    </li>
-    <li>
-      <a href="https://www.reddit.com/r/webdev/" target="blank">WebDev</a> - A community dedicated to all things web
-      development: both front-end and back-end.
-    </li>
-    <li>
-      <a href="https://www.reddit.com/r/javascript/" target="blank">JavaScript</a> - All about the JavaScript
-      programming language!
-    </li>
-    <li>
-      <a href="https://www.reddit.com/r/coding/" target="blank">Coding</a> - Welcome to r/coding
-    </li>
-  </ol>
+  <summary>Community</summary>
+
+  <details open>
+    <summary>Community - Facebook Groups</summary>
+    <ol>
+      <li>
+        <a href="https://www.facebook.com/groups/190277791450732/">Code, Tech & Caffeine</a> - Coding noobs to senior
+        devs
+        to those just interested in technology this group is for you. This group is devoted to sharing helpful and
+        interesting items in software and technology.
+      </li>
+      <li>
+        <a href="https://www.facebook.com/groups/759985267390294" target="blank">Hackathon Hackers</a> - This is the
+        all-inclusive hackathons group.
+      </li>
+      <li>
+        <a href="https://www.facebook.com/groups/318334558529855" target="blank">Hacking and Coding Tutorials</a> - A
+        closed group for technical enthusiasts interesting in hacking and coding. A place to openly discuss and share
+        ideas and ask for help from real and certified hackers and programmers.
+      </li>
+      <li>
+        <a href="https://www.facebook.com/programmingjokes" target="blank">Programming Jokes</a> - 1000+ Jokes Only
+        Programmers Will Get
+      </li>
+      <li>
+        <a href="https://www.facebook.com/ilp18/" target="blank">I Love Programming</a> - Welcome to one of the most
+        popular Facebook page related to programming :)
+        Here we share best tutorials, news, YouTube videos and memes related to programming.
+      </li>
+    </ol>
+  </details>
+
+  <details open>
+    <summary>Community - Forums (Subreddits, etc.)</summary>
+    <ol>
+      <li>
+        <a href="https://www.freecodecamp.org/forum/" target="blank">FreeCodeCamp</a> - Learn to code and get a
+        developer job. This community will help you.
+      </li>
+      <li>
+        <a href="https://hackernoon.com/" target="blank">Hacker Noon</a> - How hackers start their afternoons.
+      </li>
+      <li>
+        <a href="https://www.reddit.com/r/learnprogramming/" target="blank">Learn Programming</a> - A subreddit for all
+        questions related to programming in any language.
+      </li>
+      <li>
+        <a href="https://www.reddit.com/r/dailyprogrammer/" target="blank">Daily Programmer</a> - 3 Programming
+        Challenges
+        a week!
+      </li>
+      <li>
+        <a href="https://www.reddit.com/r/webdev/" target="blank">WebDev</a> - A community dedicated to all things web
+        development: both front-end and back-end.
+      </li>
+      <li>
+        <a href="https://www.reddit.com/r/javascript/" target="blank">JavaScript</a> - All about the JavaScript
+        programming language!
+      </li>
+      <li>
+        <a href="https://www.reddit.com/r/coding/" target="blank">Coding</a> - Welcome to r/coding
+      </li>
+    </ol>
+  </details>
+
+  <details open>
+    <summary>Community - Organization & Inclusion</summary>
+    <ol>
+      <li>
+        <a href="https://www.meetup.com/" target="blank">Meetup</a> - Find Meetups so you can do more of what matters to
+        you. Or create your own group and meet people near you who share your interests.
+      </li>
+      <li>
+        <a href="https://code.org" target="blank">Code.org</a> - Code.org® is a nonprofit dedicated to expanding access
+        to computer science in schools and increasing participation by women and underrepresented minorities.
+      </li>
+      <li>
+        <a href="https://www.womenwhocode.com/" target="blank">Women Who Code</a> - Women Who Code (WWCode) is a global
+        501(c)(3) non-profit organization dedicated to inspiring women to excel in technology careers.
+      </li>
+      <li>
+        <a href="https://dev.to/" target="blank">Dev.to</a> - DEV is a community of software developers getting together
+        to help one another out. The software industry relies on collaboration and networked learning. We provide a
+        place for that to happen.
+      </li>
+    </ol>
+  </details>
 </details>
 
 <details open>
