@@ -318,6 +318,12 @@
         <a href="https://flexboxfroggy.com/" target="blank">Flexbox Froggy</a> - Welcome to Flexbox Froggy, a game where
         you help Froggy and friends by writing CSS code!
       </li>
+      <li>
+        <a href="https://ocw.mit.edu/index.htm" target="blank">MIT OpenCourseWare</a> - MIT OpenCourseWare is a web-based publication of virtually all MIT course content. OCW is open and available to the world and is a permanent MIT activity.
+      </li>
+            <li>
+        <a href="https://www.coursera.org/" target="blank">Coursera</a> - Join Coursera for free and learn online. Build skills with courses from top universities like Yale, Michigan, Stanford, and leading companies like Google and IBM.
+      </li>
     </ol>
   </details>
   <details open>
@@ -361,7 +367,7 @@
         <a href="https://www.linkedin.com/" target="blank>LinkedIn</a> - Welcome to LinkedIn, the world's largest professional network with nearly 660+ million users in more than 200 countries and territories worldwide.
       </li>
       <li>
-                                                    <a href=" https://resume.github.io/" target="blank">Github
+        <a href=" https://resume.github.io/" target="blank">Github
           Resume</a> - As a software startup owner I really enjoy when people send us their résumés and they include
         their github account so we can see tangible work they have done.
       </li>
@@ -463,11 +469,7 @@
         to computer science in schools and increasing participation by women and underrepresented minorities.
       </li>
       <li>
-        <a href="https://www.girldevelopit.com/" target="blank">Girl Develop It</a> - Girl Develop It is a nonprofit
-        organization that exists to provide affordable and judgment-free opportunities for women interested in learning
-        web and software development. Through in-person classes and community support, Girl Develop It helps women of
-        diverse backgrounds achieve their technology goals and build confidence in their careers and their every day
-        lives.
+        <a href="https://www.womenwhocode.com/" target="blank">Women Who Code</a> - Women Who Code (WWCode) is a global 501(c)(3) non-profit organization dedicated to inspiring women to excel in technology careers.
       </li>
       <li>
         <a href="https://dev.to/" target="blank">Dev.to</a> - DEV is a community of software developers getting together
