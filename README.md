@@ -4,6 +4,11 @@
 <small>DISCLAIMER: it is worth mentioning that a portion of resources (mainly courses and books) included have affiliate
   links or items
   mentioned are projects I have built that I directly benefit from their sale or use.</small>
+  
+  ![GitHub contributors](https://img.shields.io/github/contributors/pizzapokerguy/ultimate-coding-resources)
+  ![Twitter Follow](https://img.shields.io/twitter/follow/pizzapokerguy?label=Follow&style=social) 
+
+<hr>
 
 <details open>
   <summary>Books</summary>
@@ -1003,6 +1008,9 @@
     </li>
     <li><a href="https://github.com/getify/You-Dont-Know-JS" target="blank">You Don't Know JS</a> - This is a series of
       books diving deep into the core mechanisms of the JavaScript language.
+    </li>
+    <li>
+      <a href="https://github.com/badges/shields" target="blank">Shields.io</a> - This is home to Shields.io, a service for concise, consistent, and legible badges in SVG and raster format, which can easily be included in GitHub readmes or any other web page.
     </li>
   </ol>
 </details>
