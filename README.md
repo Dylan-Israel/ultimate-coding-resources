@@ -451,6 +451,9 @@
         <a href="https://purecss.io/" target="blank">Pure.css</a> - A set of small, responsive CSS modules that you can
         use in every web project.
       </li>
+      <li>
+        <a href="https://fontawesome.com/" target="blank">Font Awesome</a> - Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit.
+      </li>
     </ol>
   </details>
   <details open>
@@ -549,6 +552,9 @@
       <li>
         <a href="https://www.humblebundle.com/?partner=coding360">Humble Bundle</a> - although known for their games.
         Now adays EBook bundles around web development are becoming increasingly popular.
+      </li>
+      <li>
+        <a href="https://www.canva.com/">Canva</a> - Create beautiful designs with your team. Use Canva's drag-and-drop feature and layouts to design, share and print business cards, logos, presentations and more.
       </li>
     </ol>
   </details>
