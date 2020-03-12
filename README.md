@@ -604,6 +604,10 @@
       Tutorials on Modern JavaScript (beginner to advanced), Node.js, React, Vue.js,CSS coolAnimations, HTML & CSS, Plus
       loads more.
     </li>
+    <li>
+      <a href="https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA" target="blank">GOTO; Conferences</a> - A very
+      interesting conference channel with a lot of different topics, front-end, back-end, architecture, security...
+    </li>
   </ol>
 </details>
 
