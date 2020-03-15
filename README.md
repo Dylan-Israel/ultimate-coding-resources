@@ -413,6 +413,9 @@
         <a href="https://www.30secondsofcode.org/">30 Seconds of Code</a> - Short code snippets for all your development
         needs.
       </li>
+      <li>
+        <a href="https://12factor.net/">The Twelve-Factor App</a> - In the modern era, software is commonly delivered as a service: called web apps, or software-as-a-service. The twelve-factor app is a methodology for building software-as-a-service apps.
+      </li>
     </ol>
   </details>
   <details open>
