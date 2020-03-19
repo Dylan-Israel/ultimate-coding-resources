@@ -333,6 +333,9 @@
         skills with courses from top universities like Yale, Michigan, Stanford, and leading companies like Google and
         IBM.
       </li>
+      <li>
+      <a href="https://brilliant.org/" target="blank">Brilliant</a> - Build quantitative skills in math, science, and computer science with fun and challenging interactive explorations.
+      </li>
     </ol>
   </details>
   <details open>
