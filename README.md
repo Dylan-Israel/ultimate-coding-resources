@@ -103,6 +103,12 @@
       dealing with time in computational models: objects with state, concurrent programming, functional programming and
       lazy evaluation, and nondeterministic programming.
     </li>
+    <li>
+      <a href="https://www.buymeacoffee.com/GoalKickerBooks" target="blank">Goal Kicker</a> - Programming Notes for Professionals books.
+    </li>
+    <li>
+      <a href="https://launchschool.com/books" target="blank">LaunchSchool Books</a> - Below are some books we wrote to supplement the courses at Launch School. Some of the books take a very beginner friendly approach, and are suitable for any level of technical proficiency. Some books may require prerequisite knowledge covered in a Launch School course, and may not be suitable for individual consumption.
+    </li>
   </ol>
 </details>
 
@@ -193,6 +199,15 @@
       <li>
         <a href="https://linkedin-learning.pxf.io/eWX26" target="blank">LinkedIn Learning</a> - Formally Linda, LinkedIn
         Learning is one of the worlds largest course platforms with content being created monthly.
+      </li>      
+      <li>
+        <a href="https://www.educative.io/" target="blank">Educatvie</a> - Level up your coding skills, quickly and efficiently.
+      </li>
+      <li>
+        <a href="https://thegymnasium.com/" target="blank">Gymnasium</a> - Aquent Gymnasium offers free, online courses for digital, creative, and communications professionals to equip them with in-demand skills and advance their careers.
+      </li>
+      <li>
+        <a href="https://hackr.io/" target="blank">Hackr.io</a> - We at Hackr.io aggregate courses from many providers to make it easy to find the best courses on almost any subject, wherever they exist on the web.
       </li>
     </ol>
   </details>
@@ -721,6 +736,9 @@
       certifications. Since 2015, 40000 graduates have gotten jobs at tech companies including Google, Apple, Amazon and
       more.
     </li>
+    <li>
+      <a href="https://blog.webdevsimplified.com/" target="blank">Web Dev Simplified</a> - The official Web Dev Simplified blog by Kyle Cook. Short and simple articles on web development.
+    </li>
   </ol>
 </details>
 
@@ -1017,6 +1035,10 @@
     </li>
     <li>
       <a href="https://github.com/badges/shields" target="blank">Shields.io</a> - This is home to Shields.io, a service for concise, consistent, and legible badges in SVG and raster format, which can easily be included in GitHub readmes or any other web page.
+    </li>
+    <li>
+      <a href="https://github.com/ossu/computer-science" target="blank">Open Source Society University
+</a> - The OSSU curriculum is a complete education in computer science using online materials. It's not merely for career training or professional development. It's for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines, and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners.
     </li>
   </ol>
 </details>
