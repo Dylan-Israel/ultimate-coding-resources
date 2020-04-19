@@ -406,6 +406,9 @@
         <a href="https://hashnode.com/" target="blank">HashNode</a> - Hashnode is the easiest way to connect with the
         best developers from around the world and grow your career!
       </li>
+            <li>
+        <a href="https://www.levels.fyi/" target="blank">levels.fyi</a> - we break down the total compensation packages for multiple levels of software engineers at the largest tech companies.
+      </li>
     </ol>
   </details>
   <details open>
