@@ -794,6 +794,9 @@
       <a href="https://www.codenewbie.org/podcast">CodeNewbie</a> - CodeNewbie Podcast Stories from people on their
       coding journey.
     </li>
+    <li>
+      <a href="https://www.redhat.com/en/command-line-heroes">Command Line Heroes</a> - A podcast about the people who transform technology from the command line. Presented by Red Hat.
+    </li>
   </ol>
 </details>
 
