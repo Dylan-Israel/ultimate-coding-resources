@@ -745,8 +745,11 @@
     <li>
       <a href="https://blog.webdevsimplified.com/" target="blank">Web Dev Simplified</a> - The official Web Dev Simplified blog by Kyle Cook. Short and simple articles on web development.
     </li>
-        <li>
+    <li>
       <a href="http://blog.cleancoder.com/" target="blank">Clean Code</a> - Robert Martin's (Uncle Bob) blog.
+    </li>
+    <li>
+      <a href="http://codewall.co.uk/" target="blank">CodeWall</a> - Tutorials and technical articles spanning a range of web development technologies.
     </li>
   </ol>
 </details>
