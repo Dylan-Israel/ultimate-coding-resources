@@ -145,6 +145,11 @@
         certifications. Since 2014, more than 40,000 freeCodeCamp.org graduates have gotten jobs at tech companies
         including
       </li>
+       <li>
+        <a href="https://www.w3schools.com/" target="blank">W3Schools</a> - W3Schools is a training website for learning
+        web technologies online. Content includes tutorials and references relating to HTML, CSS, JavaScript, JSON, PHP, 
+        Python, AngularJS, React.js, SQL, Bootstrap, Sass, Node.js, jQuery, XQuery, AJAX, XML, Raspberry Pi, C++, C# and Java.
+      </li>
       <li>
         <a href="https://scrimba.com/" target="blank">Scrimba</a> - Our mind-blowing learning experience makes it easier
         than ever to grow your coding skills. So pick a course, start learning, and give your career the boost it
@@ -283,11 +288,6 @@
         small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming
         language you like. People use them as a speed contest, interview prep, company training, university coursework,
         practice problems, or to challenge each other.
-      </li>
-      <li>
-        <a href="https://www.w3schools.com/" target="blank">W3Schools</a> - W3Schools is a training website for learning
-        web technologies online. Content includes tutorials and references relating to HTML, CSS, JavaScript, JSON, PHP, 
-        Python, AngularJS, React.js, SQL, Bootstrap, Sass, Node.js, jQuery, XQuery, AJAX, XML, Raspberry Pi, C++, C# and Java.
       </li>
     </ol>
   </details>
