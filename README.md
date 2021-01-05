@@ -284,6 +284,11 @@
         language you like. People use them as a speed contest, interview prep, company training, university coursework,
         practice problems, or to challenge each other.
       </li>
+      <li>
+        <a href="https://www.w3schools.com/" target="blank">W3Schools</a> - W3Schools is a training website for learning
+        web technologies online. Content includes tutorials and references relating to HTML, CSS, JavaScript, JSON, PHP, 
+        Python, AngularJS, React.js, SQL, Bootstrap, Sass, Node.js, jQuery, XQuery, AJAX, XML, Raspberry Pi, C++, C# and Java.
+      </li>
     </ol>
   </details>
   <details open>
