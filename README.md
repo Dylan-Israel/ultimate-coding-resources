@@ -201,7 +201,7 @@
         Learning is one of the worlds largest course platforms with content being created monthly.
       </li>      
       <li>
-        <a href="https://www.educative.io/" target="blank">Educatvie</a> - Level up your coding skills, quickly and efficiently.
+        <a href="https://www.educative.io/" target="blank">Educative</a> - Level up your coding skills, quickly and efficiently.
       </li>
       <li>
         <a href="https://thegymnasium.com/" target="blank">Gymnasium</a> - Aquent Gymnasium offers free, online courses for digital, creative, and communications professionals to equip them with in-demand skills and advance their careers.
