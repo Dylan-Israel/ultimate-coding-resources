@@ -1057,3 +1057,10 @@
     </li>
   </ol>
 </details>
+
+<details open>
+  <summary>Memes</summary>
+  <ol>
+    <li><a href="https://martinfowler.com/bliki/TwoHardThings.html" target="blank">Two Hard Things</a> - is about the two hardest things in software engineering.</li>
+  </ol>
+ </details>
