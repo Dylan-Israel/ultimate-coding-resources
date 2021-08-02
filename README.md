@@ -409,6 +409,9 @@
             <li>
         <a href="https://www.levels.fyi/" target="blank">levels.fyi</a> - we break down the total compensation packages for multiple levels of software engineers at the largest tech companies.
       </li>
+       <li>
+        <a href="https://mycvdesigner.com/" target="blank">My CV Designer</a> - The world's most affordable Resume Writing Service provider that builds Text Resumes, Visual Resumes, Infographic Resumes, and Cover Letters for recent graduates to highly-experienced professionals. With more than 100 exclusive templates in the vault, MyCVDesigner excels at making job-ready resumes that helped many jobseekers achieve their dream career.  :page_facing_up: :bar_chart:
+      </li>
     </ol>
   </details>
   <details open>
