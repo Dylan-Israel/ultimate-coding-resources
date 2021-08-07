@@ -398,7 +398,7 @@
         professional network with nearly 660+ million users in more than 200 countries and territories worldwide.
       </li>
       <li>
-        <a href=" https://resume.github.io/" target="blank">Github
+        <a href="https://resume.github.io/" target="blank">Github
           Resume</a> - As a software startup owner I really enjoy when people send us their résumés and they include
         their github account so we can see tangible work they have done.
       </li>
