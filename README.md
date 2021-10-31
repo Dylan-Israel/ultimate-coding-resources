@@ -210,7 +210,10 @@
         <a href="https://hackr.io/" target="blank">Hackr.io</a> - We at Hackr.io aggregate courses from many providers to make it easy to find the best courses on almost any subject, wherever they exist on the web.
       </li>
       <li>
-        <a href="https://www.codementor.io/experts" target="blank">Codementor</a> - Get 1-on-1 expert help from senior developers to improve your coding skills or get help with your ongoing projects.
+        <a href="https://www.codewars.com/" target="blank">Codewars</a> - Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata. These discrete programming exercises train a range of skills in a variety of programming languages, and are completed within an online integrated development environment.
+      </li>
+      <li>
+          <a href="https://www.codementor.io/experts" target="blank">Codementor</a> - Get 1-on-1 expert help from senior developers to improve your coding skills or get help with your ongoing projects.
       </li>
     </ol>
   </details>
@@ -286,6 +289,9 @@
         small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming
         language you like. People use them as a speed contest, interview prep, company training, university coursework,
         practice problems, or to challenge each other.
+      </li>
+       <li>
+        <a href="https://backtobackswe.com/" target="blank">Backtobackswe</a> - Backtobackswe platform is built to give a huge edge to the people by teaching the mind and intuition interviewers probe for. The goal of he platform is to make someone ready to pass software engineering interviews at "the big 4" companies and any other large tech companies.
       </li>
     </ol>
   </details>
@@ -401,7 +407,7 @@
         professional network with nearly 660+ million users in more than 200 countries and territories worldwide.
       </li>
       <li>
-        <a href=" https://resume.github.io/" target="blank">Github
+        <a href="https://resume.github.io/" target="blank">Github
           Resume</a> - As a software startup owner I really enjoy when people send us their résumés and they include
         their github account so we can see tangible work they have done.
       </li>
@@ -465,6 +471,12 @@
   <details open>
     <summary>Sites - Style & Component Libraries</summary>
     <ol>
+      <li>
+        <a href="https://tailwindcss.com/" target="blank">TailwindCSS</a> - A utility-first css framework that's a pleasure to use.
+      </li>
+      <li>
+        <a href="https://tailwindui.com/" target="blank">TailwindUI</a> - Tailwind's component library.
+      </li>
       <li>
         <a href="https://getbootstrap.com/" target="blank">Bootstrap</a> - Bootstrap is an open source toolkit for
         developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables
