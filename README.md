@@ -209,6 +209,9 @@
       <li>
         <a href="https://hackr.io/" target="blank">Hackr.io</a> - We at Hackr.io aggregate courses from many providers to make it easy to find the best courses on almost any subject, wherever they exist on the web.
       </li>
+      <li>
+        <a href="https://www.codewars.com/" target="blank">Codewars</a> - Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata. These discrete programming exercises train a range of skills in a variety of programming languages, and are completed within an online integrated development environment.
+      </li>
     </ol>
   </details>
   <details open>
