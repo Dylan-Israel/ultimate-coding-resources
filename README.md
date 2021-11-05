@@ -1070,6 +1070,10 @@
       <a href="https://github.com/ossu/computer-science" target="blank">Open Source Society University
 </a> - The OSSU curriculum is a complete education in computer science using online materials. It's not merely for career training or professional development. It's for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines, and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners.
     </li>
+    <li>
+      <a href="https://github.com/marak/Faker.js/" target="blank">Faker.js
+</a> - generate massive amounts of fake data in the browser and node.js
+    </li>
   </ol>
 </details>
 
