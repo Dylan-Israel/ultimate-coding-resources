@@ -4,9 +4,9 @@
 <small>DISCLAIMER: it is worth mentioning that a portion of resources (mainly courses and books) included have affiliate
   links or items
   mentioned are projects I have built that I directly benefit from their sale or use.</small>
-  
+
   ![GitHub contributors](https://img.shields.io/github/contributors/pizzapokerguy/ultimate-coding-resources)
-  ![Twitter Follow](https://img.shields.io/twitter/follow/pizzapokerguy?label=Follow&style=social) 
+  ![Twitter Follow](https://img.shields.io/twitter/follow/pizzapokerguy?label=Follow&style=social)
 
 <hr>
 
@@ -200,6 +200,9 @@
         <a href="https://linkedin-learning.pxf.io/eWX26" target="blank">LinkedIn Learning</a> - Formally Linda, LinkedIn
         Learning is one of the worlds largest course platforms with content being created monthly.
       </li>      
+      <li>
+        <a href="https://designgurus.org/" target="blank">Design Gurus</a> - The ultimate resource to prepare for the system design and coding interview.
+      </li>
       <li>
         <a href="https://www.educative.io/" target="blank">Educative</a> - Level up your coding skills, quickly and efficiently.
       </li>
