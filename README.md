@@ -207,6 +207,9 @@
         <a href="https://www.educative.io/" target="blank">Educative</a> - Level up your coding skills, quickly and efficiently.
       </li>
       <li>
+        <a href="https://www.scaler.com/topics/hubs/" target="blank">Scaler</a> - Learn to code by reading quality content. The ultimate resources to kick start your programming journey. Also help in job interview.
+      </li>
+      <li>
         <a href="https://thegymnasium.com/" target="blank">Gymnasium</a> - Aquent Gymnasium offers free, online courses for digital, creative, and communications professionals to equip them with in-demand skills and advance their careers.
       </li>
       <li>
