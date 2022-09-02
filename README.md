@@ -225,6 +225,11 @@
         <a href="https://www.codeforhunger.com/" target="blank">codeforhunger</a> - Learn to code. Learn coding from basics with examples and their solutions. learn code with projects in C.
         including
       </li>
+      <li>
+        <a href="https://www.codementor.io/events/"
+        target="blank">Codementor Events</a> - A developer community and virtual events platform where developers learn and share new tools, technical concepts, and career tips.
+
+
     </ol>
   </details>
   <details open>
