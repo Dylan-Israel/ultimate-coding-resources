@@ -228,6 +228,8 @@
       <li>
       <a href="https://www.interviewbit.com/practice/" target="blank">InterviewBit</a> A site that gamifies the experience of practicing for interviews and includes lots of sample problems, programming and company-specific interview questions, mock interviews and more. 
     </li>
+    <li>
+        <a href="https://www.codementor.io/events/" target="blank">Codementor Events</a> - A developer community and virtual events platform where developers learn and share new tools, technical concepts, and career tips.
     </ol>
   </details>
   <details open>
@@ -305,6 +307,9 @@
       </li>
        <li>
         <a href="https://backtobackswe.com/" target="blank">Backtobackswe</a> - Backtobackswe platform is built to give a huge edge to the people by teaching the mind and intuition interviewers probe for. The goal of he platform is to make someone ready to pass software engineering interviews at "the big 4" companies and any other large tech companies.
+      </li>
+      <li>
+        <a href="https://www.interviewbit.com/practice/" target="blank">InterviewBit</a> - A site that gamifies the experience of practicing for interviews and includes lots of sample problems, programming language & company-specific interview questions, mock interviews and more. 
       </li>
     </ol>
   </details>
@@ -558,6 +563,9 @@
       </li>
          <li>
         <a href="https://www.interviewbit.com/online-c-compiler/" target="blank">InterviewBit</a> - Practice and execute C programs with our online compiler(supports gcc c compiler).
+       </li>
+       <li>
+        <a href="https://ide.new/cpp" target="blank">InterviewBit</a> - An online compiler that helps code and run your programs online. 
       </li>
     </ol>
   </details>
