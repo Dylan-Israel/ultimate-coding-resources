@@ -250,6 +250,9 @@
         your skills, expand your knowledge and prepare for technical interviews.
       </li>
       <li>
+        <a href="https://www.meetapro.com/?utm_source=ucrgit" target="blank">Meetapro</a> - An Airbnb-style mock interview & coaching platform with mock interviews hosted by experienced FAANG interviewers.
+      </li>
+      <li>
         <a href="https://codesignal.com/" target="blank">Code Signal</a> - formerly CodeFights a grate Algorithm site
         with a beautiful UI.
       </li>
