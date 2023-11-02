@@ -757,6 +757,9 @@
       <a href="http://brackets.io/" target="blank">Brackets</a> - A modern, open source text editor that understands web
       design.
     </li>
+    <li>
+      <a href="https://codelobster.com/" target="blank">CodeLobster</a> - A free cross-platform editor with many plug-ins for all popular frameworks.
+    </li>
   </ol>
 
 </details>
