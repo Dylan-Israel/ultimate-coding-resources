@@ -222,7 +222,7 @@
           <a href="https://www.codementor.io/experts" target="blank">Codementor</a> - Get 1-on-1 expert help from senior developers to improve your coding skills or get help with your ongoing projects.
       </li>
       <li>
-        <a href="https://www.codeforhunger.com/" target="blank">codeforhunger</a> - Learn to code. Learn coding from basics with examples and their solutions. learn code with projects in C.
+        <a href="https://codeforhunger.blogspot.com/" target="blank">codeforhunger</a> - Learn to code. Learn coding from basics with examples and their solutions. learn code with projects in C.
         including
       </li>
       <li>
