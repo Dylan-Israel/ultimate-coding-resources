@@ -13,6 +13,9 @@
 <details open>
   <summary>Books</summary>
   <ol>
+    <li>
+      <a href="https://www.manning.com/books/the-art-of-code" target="blank">The Art of Code: The surprising power of beauty in software development</a> - A practical guide to recognizing and creating desirable code qualities, such as simplicity, purity, and expressiveness, that are demonstrably beneficial to you and your team, applicable to virtually any codebase, and beautiful.
+    </li>
     <li><a href="https://amzn.to/2N0dzNb" target="blank">Clean Architecture</a> - by applying universal rules of
       software architecture, you can dramatically improve developer productivity throughout the life of any software
       system. Now, building upon the success of his best-selling books Clean Code and The Clean Coder, legendary
