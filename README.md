@@ -109,6 +109,9 @@
     <li>
       <a href="https://launchschool.com/books" target="blank">LaunchSchool Books</a> - Below are some books we wrote to supplement the courses at Launch School. Some of the books take a very beginner friendly approach, and are suitable for any level of technical proficiency. Some books may require prerequisite knowledge covered in a Launch School course, and may not be suitable for individual consumption.
     </li>
+    <li>
+      <a href="https://www.manning.com/books/vanilla-web" target="blank">Weh Development</a> - A guide to building serious web applications using the tools built right into the browser.
+    </li>
   </ol>
 </details>
 
