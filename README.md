@@ -613,6 +613,9 @@
         <a href="https://www.gitkraken.com/" target="blank">GitKraken</a> - Unleash GitKraken! Three legendary developer
         productivity tools: the Git GUI Client for Windows/Mac/Linux development.
       </li>
+      <li>
+        <a href="https://relatedrepos.com/" target="blank">Related Repos</a> - Discover related open source projects. Find alternatives and other similar repositories. Updated daily.
+      </li>
     </ol>
   </details>
 
