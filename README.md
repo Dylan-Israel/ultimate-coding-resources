@@ -327,6 +327,9 @@
         and access to tens of thousands of paid courses all for the low price of $10 a month.
       </li>
       <li>
+        <a href="https://www.scaler.com/">Scaler Academy</a> - Scaler empowers tech aspirants with industry-relevant skills and expert mentorship to accelerate their tech careers.
+      </li>
+      <li>
         <a href="https://www.udemy.com/" target="blank">Udemy</a> - The leading global marketplace for learning and
         instruction. By connecting students all over the world to the best instructors, Udemy is helping individuals
         reach their goals and pursue their dreams
