@@ -229,6 +229,9 @@
       <a href="https://www.interviewbit.com/practice/" target="blank">InterviewBit</a> A site that gamifies the experience of practicing for interviews and includes lots of sample problems, programming and company-specific interview questions, mock interviews and more. 
     </li>
     <li>
+        <a href="https://labex.io/" target="blank">LabEx</a> - Learn programming through hands-on practice with interactive labs and real-world projects. Master skills in Linux, Python, Docker, Kubernetes, and more with step-by-step guidance and instant feedback.
+    </li>
+    <li>
         <a href="https://www.codementor.io/events/" target="blank">Codementor Events</a> - A developer community and virtual events platform where developers learn and share new tools, technical concepts, and career tips.
     </ol>
   </details>
