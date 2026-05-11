@@ -384,8 +384,11 @@
       <li>
       <a href="https://brilliant.org/" target="blank">Brilliant</a> - Build quantitative skills in math, science, and computer science with fun and challenging interactive explorations.
       </li>
-            <li>
+      <li>
       <a href="https://www.edx.org/" target="blank">edX</a> - edX is the trusted platform for education and learning. Founded by Harvard and MIT, edX is home to more than 20 million learners, the majority of top-ranked universities in the world and industry-leading companies.
+      </li>
+      <li>
+      <a href="https://www.roadmap.sh" target="blank">Roadmap.sh</a> - Roadmap.sh is a free & open-source platform that provides learning roadmap for any technical field, from Blockchain to UX Design.
       </li>
     </ol>
   </details>
@@ -693,6 +696,9 @@
     <li>
       <a href="https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA" target="blank">GOTO; Conferences</a> - A very
       interesting conference channel with a lot of different topics, front-end, back-end, architecture, security...
+    </li>
+    <li>
+      <a href="https://www.youtube.com/@roadmapsh" target="blank">Roadmap.sh</a> - A general programming education channel ran by the creator of Roadmap.sh, Kamran Ahmed.
     </li>
   </ol>
 </details>
