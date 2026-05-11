@@ -231,6 +231,9 @@
     <li>
         <a href="https://www.codementor.io/events/" target="blank">Codementor Events</a> - A developer community and virtual events platform where developers learn and share new tools, technical concepts, and career tips.
     </ol>
+    <li>
+      <a href="https://codingcops.com/" target="blank">CodingCops</a> A leading software development outsourcing company, committed to delivering cutting-edge technology solutions tailored to meet your business needs. Our comprehensive range of services includes custom software development, mobile app development, custom blockchain services, managed IT services, machine learning technologies, and IT staff augmentation. 
+    </li>
   </details>
   <details open>
     <summary>Sites - Algorithm Platforms</summary>
