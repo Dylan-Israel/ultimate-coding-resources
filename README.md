@@ -408,6 +408,9 @@
         on companies with employee reviews, personalized salary tools, and more.
       </li>
       <li>
+        <a href="https://www.ambitionbox.com/">AmbitionBox</a> - With more than 30 Lakh reviews, 1 Crore salaries, and 5 Lakh companies discover and evaluate best places to work.
+      </li>
+      <li>
         <a href="https://angel.co/">AngelList</a> - Apply privately to 130,000+ tech & startup jobs with one
         application. See salary and equity upfront.
       </li>
@@ -801,6 +804,9 @@
     </li>
     <li>
       <a href="http://codewall.co.uk/" target="blank">CodeWall</a> - Tutorials and technical articles spanning a range of web development technologies.
+    </li>
+    <li>
+      <a href="https://www.scaler.com/blog/" target="blank">Scaler</a> - Tech updates and career insights in the world of technology.
     </li>
   </ol>
 </details>
