@@ -35,6 +35,7 @@
       It is about attitude. Martin shows how to approach software development with honor, self-respect, and pride; work
       well and work clean; communicate and estimate faithfully; face difficult decisions with clarity and honesty; and
       understand that deep knowledge comes with a responsibility to act.</li>
+    <li><a href="https://www.manning.com/books/the-coder-cafe" target="blank">The Coder Cafe</a> - The Coder Cafe introduces 66 vital software engineering concepts that will upgrade your day-to-day practice, regardless of your skill level. </li>
     <li><a href='http://amzn.to/2BNciX2' target="blank">The Complete Software Developer's Career Guide</a> - early in
       his software developer career, John Sonmez discovered that technical knowledge alone isn't enough to break through
       to the next income level - developers need "soft skills" like the ability to learn new technologies just in time,
