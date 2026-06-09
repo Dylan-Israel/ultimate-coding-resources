@@ -13,6 +13,9 @@
 <details open>
   <summary>Books</summary>
   <ol>
+    <li>
+      <a href="https://www.manning.com/books/the-art-of-code" target="blank">The Art of Code: The surprising power of beauty in software development</a> - A practical guide to recognizing and creating desirable code qualities, such as simplicity, purity, and expressiveness, that are demonstrably beneficial to you and your team, applicable to virtually any codebase, and beautiful.
+    </li>
     <li><a href="https://amzn.to/2N0dzNb" target="blank">Clean Architecture</a> - by applying universal rules of
       software architecture, you can dramatically improve developer productivity throughout the life of any software
       system. Now, building upon the success of his best-selling books Clean Code and The Clean Coder, legendary
@@ -35,6 +38,7 @@
       It is about attitude. Martin shows how to approach software development with honor, self-respect, and pride; work
       well and work clean; communicate and estimate faithfully; face difficult decisions with clarity and honesty; and
       understand that deep knowledge comes with a responsibility to act.</li>
+    <li><a href="https://www.manning.com/books/the-coder-cafe" target="blank">The Coder Cafe</a> - The Coder Cafe introduces 66 vital software engineering concepts that will upgrade your day-to-day practice, regardless of your skill level. </li>
     <li><a href='http://amzn.to/2BNciX2' target="blank">The Complete Software Developer's Career Guide</a> - early in
       his software developer career, John Sonmez discovered that technical knowledge alone isn't enough to break through
       to the next income level - developers need "soft skills" like the ability to learn new technologies just in time,
@@ -111,6 +115,9 @@
     </li>
     <li>
       <a href="https://www.manning.com/books/javascript-in-depth" target="blank">Manning Publications</a> - Explore the inner workings of the world’s most popular programming language.
+    </li>
+    <li>
+      <a href="https://www.manning.com/books/vanilla-web" target="blank">Web Development</a> - A guide to building serious web applications using the tools built right into the browser.
     </li>
   </ol>
 </details>
@@ -232,8 +239,14 @@
       <a href="https://www.interviewbit.com/practice/" target="blank">InterviewBit</a> A site that gamifies the experience of practicing for interviews and includes lots of sample problems, programming and company-specific interview questions, mock interviews and more. 
     </li>
     <li>
+        <a href="https://labex.io/" target="blank">LabEx</a> - Learn programming through hands-on practice with interactive labs and real-world projects. Master skills in Linux, Python, Docker, Kubernetes, and more with step-by-step guidance and instant feedback.
+    </li>
+    <li>
         <a href="https://www.codementor.io/events/" target="blank">Codementor Events</a> - A developer community and virtual events platform where developers learn and share new tools, technical concepts, and career tips.
     </ol>
+    <li>
+      <a href="https://codingcops.com/" target="blank">CodingCops</a> A leading software development outsourcing company, committed to delivering cutting-edge technology solutions tailored to meet your business needs. Our comprehensive range of services includes custom software development, mobile app development, custom blockchain services, managed IT services, machine learning technologies, and IT staff augmentation. 
+    </li>
   </details>
   <details open>
     <summary>Sites - Algorithm Platforms</summary>
@@ -330,6 +343,9 @@
         and access to tens of thousands of paid courses all for the low price of $10 a month.
       </li>
       <li>
+        <a href="https://www.scaler.com/">Scaler Academy</a> - Scaler empowers tech aspirants with industry-relevant skills and expert mentorship to accelerate their tech careers.
+      </li>
+      <li>
         <a href="https://www.udemy.com/" target="blank">Udemy</a> - The leading global marketplace for learning and
         instruction. By connecting students all over the world to the best instructors, Udemy is helping individuals
         reach their goals and pursue their dreams
@@ -387,8 +403,11 @@
       <li>
       <a href="https://brilliant.org/" target="blank">Brilliant</a> - Build quantitative skills in math, science, and computer science with fun and challenging interactive explorations.
       </li>
-            <li>
+      <li>
       <a href="https://www.edx.org/" target="blank">edX</a> - edX is the trusted platform for education and learning. Founded by Harvard and MIT, edX is home to more than 20 million learners, the majority of top-ranked universities in the world and industry-leading companies.
+      </li>
+      <li>
+      <a href="https://www.roadmap.sh" target="blank">Roadmap.sh</a> - Roadmap.sh is a free & open-source platform that provides learning roadmap for any technical field, from Blockchain to UX Design.
       </li>
     </ol>
   </details>
@@ -409,6 +428,9 @@
       <li>
         <a href="https://www.glassdoor.com/index.htm">Glassdoor</a> - Search millions of jobs and get the inside scoop
         on companies with employee reviews, personalized salary tools, and more.
+      </li>
+      <li>
+        <a href="https://www.ambitionbox.com/">AmbitionBox</a> - With more than 30 Lakh reviews, 1 Crore salaries, and 5 Lakh companies discover and evaluate best places to work.
       </li>
       <li>
         <a href="https://angel.co/">AngelList</a> - Apply privately to 130,000+ tech & startup jobs with one
@@ -616,6 +638,9 @@
         <a href="https://www.gitkraken.com/" target="blank">GitKraken</a> - Unleash GitKraken! Three legendary developer
         productivity tools: the Git GUI Client for Windows/Mac/Linux development.
       </li>
+      <li>
+        <a href="https://relatedrepos.com/" target="blank">Related Repos</a> - Discover related open source projects. Find alternatives and other similar repositories. Updated daily.
+      </li>
     </ol>
   </details>
 
@@ -693,6 +718,9 @@
     <li>
       <a href="https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA" target="blank">GOTO; Conferences</a> - A very
       interesting conference channel with a lot of different topics, front-end, back-end, architecture, security...
+    </li>
+    <li>
+      <a href="https://www.youtube.com/@roadmapsh" target="blank">Roadmap.sh</a> - A general programming education channel ran by the creator of Roadmap.sh, Kamran Ahmed.
     </li>
   </ol>
 </details>
@@ -801,6 +829,9 @@
     </li>
     <li>
       <a href="http://codewall.co.uk/" target="blank">CodeWall</a> - Tutorials and technical articles spanning a range of web development technologies.
+    </li>
+    <li>
+      <a href="https://www.scaler.com/blog/" target="blank">Scaler</a> - Tech updates and career insights in the world of technology.
     </li>
   </ol>
 </details>
