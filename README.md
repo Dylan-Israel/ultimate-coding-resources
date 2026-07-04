@@ -156,6 +156,9 @@
         including
       </li>
       <li>
+        <a href="https://thecodeforge.io/" target="blank">TheCodeForge</a> - 1,600+ free programming tutorials across 13 categories including Java, Python, JavaScript, DSA, System Design, DevOps, ML/AI, Database, C/C++, C#, PHP, CS Fundamentals, and Interview prep. Each article includes code examples, outputs, comparison tables, and quick references.
+      </li>
+      <li>
         <a href="https://scrimba.com/" target="blank">Scrimba</a> - Our mind-blowing learning experience makes it easier
         than ever to grow your coding skills. So pick a course, start learning, and give your career the boost it
         deserves.
@@ -207,7 +210,7 @@
         Experts Who Shape the Modern Web
       </li>
       <li>
-        <a href="https://linkedin-learning.pxf.io/eWX26" target="blank">LinkedIn Learning</a> - Formally Linda, LinkedIn
+        <a href="https://www.linkedin.com/learning/" target="blank">LinkedIn Learning</a> - Formally Linda, LinkedIn
         Learning is one of the worlds largest course platforms with content being created monthly.
       </li>      
       <li>
@@ -229,7 +232,7 @@
         <a href="https://www.codewars.com/" target="blank">Codewars</a> - Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata. These discrete programming exercises train a range of skills in a variety of programming languages, and are completed within an online integrated development environment.
       </li>
       <li>
-          <a href="https://www.codementor.io/experts" target="blank">Codementor</a> - Get 1-on-1 expert help from senior developers to improve your coding skills or get help with your ongoing projects.
+          <a href="https://www.codementor.io/" target="blank">Codementor</a> - Get 1-on-1 expert help from senior developers to improve your coding skills or get help with your ongoing projects.
       </li>
       <li>
         <a href="https://codeforhunger.blogspot.com/" target="blank">codeforhunger</a> - Learn to code. Learn coding from basics with examples and their solutions. learn code with projects in C.
@@ -242,7 +245,7 @@
         <a href="https://labex.io/" target="blank">LabEx</a> - Learn programming through hands-on practice with interactive labs and real-world projects. Master skills in Linux, Python, Docker, Kubernetes, and more with step-by-step guidance and instant feedback.
     </li>
     <li>
-        <a href="https://www.codementor.io/events/" target="blank">Codementor Events</a> - A developer community and virtual events platform where developers learn and share new tools, technical concepts, and career tips.
+        <a href="https://www.codementor.io/" target="blank">Codementor</a> - A developer community and virtual events platform where developers learn and share new tools, technical concepts, and career tips.
     </ol>
     <li>
       <a href="https://codingcops.com/" target="blank">CodingCops</a> A leading software development outsourcing company, committed to delivering cutting-edge technology solutions tailored to meet your business needs. Our comprehensive range of services includes custom software development, mobile app development, custom blockchain services, managed IT services, machine learning technologies, and IT staff augmentation. 
@@ -351,8 +354,9 @@
         reach their goals and pursue their dreams
       </li>
       <li>
-        <a href="https://thinkster.io/" target="blank">Thinkster</a> - a better way to learn. Learn how real apps are
-        built, from scratch, using the latest frameworks.
+        <a href="https://www.freecodecamp.org/" target="blank">freeCodeCamp</a> - Learn to code. Build projects. Earn
+        certifications. Since 2014, more than 40,000 freeCodeCamp.org graduates have gotten jobs at tech companies
+        including Google, Apple, Amazon, and more.
       </li>
       <li>
         <a href="https://frontendmasters.com/" target="blank">Frontend Masters</a> - Advance Your Skills with In-Depth,
@@ -595,9 +599,7 @@
          <li>
         <a href="https://www.interviewbit.com/online-c-compiler/" target="blank">InterviewBit</a> - Practice and execute C programs with our online compiler(supports gcc c compiler).
        </li>
-       <li>
-        <a href="https://ide.new/cpp" target="blank">InterviewBit</a> - An online compiler that helps code and run your programs online. 
-      </li>
+
     </ol>
   </details>
 
@@ -792,7 +794,6 @@
       design.
     </li>
     <li>
-      <a href="https://codelobster.com/" target="blank">CodeLobster</a> - A free cross-platform editor with many plug-ins for all popular frameworks.
     </li>
   </ol>
 
@@ -840,7 +841,7 @@
   <summary>Podcasts</summary>
 
   <ol>
-    <li><a href="https://www.selftaughtornot.com/" target="blank">Self-Taught or Not</a> - Self-Taught or Not covers the
+    <li><a href="https://www.youtube.com/playlist?list=PLHdCowjFIBmLYQupkzkGs_K3poOrj9hJr" target="blank">Self-Taught or Not</a> - Self-Taught or Not covers the
       do's and don'ts of software development, hosted by Dylan Israel & Erik Hanchett. New episodes every Monday!
     </li>
     <li><a href="https://techjr.dev/" target="blanl">Tech Jr.</a> - Lee Warrick and Edwin Otero explore what it's like
@@ -898,8 +899,8 @@
       Across Multiple Machines Using GitHub Gist.
     </li>
     <li>
-      <a href="https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer"
-        target="blank">Bracket Pair Colorizer</a> - A customizable extension for colorizing matching brackets.
+      <a href="https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets"
+        target="blank">Rainbow Brackets</a> - A customizable extension for colorizing matching brackets (replacement for the deprecated Bracket Pair Colorizer).
     </li>
     <li>
       <a href="https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode" target="blank">Quokka</a> -
