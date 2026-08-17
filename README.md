@@ -242,6 +242,9 @@
         <a href="https://labex.io/" target="blank">LabEx</a> - Learn programming through hands-on practice with interactive labs and real-world projects. Master skills in Linux, Python, Docker, Kubernetes, and more with step-by-step guidance and instant feedback.
     </li>
     <li>
+      <a href="https://pythonlings.abhik.ai/" target="blank">Pythonlings</a> - Interactive Python exercises in a terminal TUI inspired by Rustlings.
+    </li>
+    <li>
         <a href="https://www.codementor.io/events/" target="blank">Codementor Events</a> - A developer community and virtual events platform where developers learn and share new tools, technical concepts, and career tips.
     </ol>
     <li>
