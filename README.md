@@ -641,6 +641,9 @@
       <li>
         <a href="https://relatedrepos.com/" target="blank">Related Repos</a> - Discover related open source projects. Find alternatives and other similar repositories. Updated daily.
       </li>
+      <li>
+        <a href="https://nutilz.com/" target="blank">Nutilz</a> - 23+ free browser-based developer tools: regex tester, JSON formatter, unit converter, and calculators. All run client-side with no sign-up required.
+      </li>
     </ol>
   </details>
 
