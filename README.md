@@ -426,6 +426,11 @@
         in exploring possible solutions as part of a university project.
       </li>
       <li>
+        <a href="https://withresumeai.com/">ResumeAI</a> - AI resume builder with a free ATS checker (3/day anonymous,
+        10/day free account) and the open State of ATS 2026 dataset (738 employers, 704 portal-verified; Workday 37.9%).
+        Live candidate leaderboard is paid placement/visibility only — not pay-for-score.
+      </li>
+      <li>
         <a href="https://www.glassdoor.com/index.htm">Glassdoor</a> - Search millions of jobs and get the inside scoop
         on companies with employee reviews, personalized salary tools, and more.
       </li>
