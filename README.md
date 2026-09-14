@@ -119,6 +119,9 @@
     <li>
       <a href="https://www.manning.com/books/vanilla-web" target="blank">Web Development</a> - A guide to building serious web applications using the tools built right into the browser.
     </li>
+    <li>
+      <a href="https://github.com/gibbok/typescript-book" target="blank">The Concise TypeScript Book</a> - A free and open-source TypeScript book covering fundamentals through advanced concepts, recently updated for TypeScript 7.
+    </li>
   </ol>
 </details>
 
