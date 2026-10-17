@@ -404,6 +404,9 @@
       <a href="https://brilliant.org/" target="blank">Brilliant</a> - Build quantitative skills in math, science, and computer science with fun and challenging interactive explorations.
       </li>
       <li>
+      <a href="https://openaha.org/" target="blank">OpenAha</a> - Free, open-source interactive math and science lessons, built from hands-on puzzles and simulations.
+      </li>
+      <li>
       <a href="https://www.edx.org/" target="blank">edX</a> - edX is the trusted platform for education and learning. Founded by Harvard and MIT, edX is home to more than 20 million learners, the majority of top-ranked universities in the world and industry-leading companies.
       </li>
       <li>
