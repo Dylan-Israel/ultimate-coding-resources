@@ -598,6 +598,9 @@
        <li>
         <a href="https://ide.new/cpp" target="blank">InterviewBit</a> - An online compiler that helps code and run your programs online. 
       </li>
+      <li>
+        <a href="https://koddo.ru/playground/python" target="blank">Koddo Python Playground</a> - Free Python editor and runner with a Russian-language interface, no account required.
+      </li>
     </ol>
   </details>
 
