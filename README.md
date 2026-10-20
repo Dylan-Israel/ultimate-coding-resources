@@ -729,10 +729,6 @@
   <summary>Wireframes and Mockups</summary>
   <ol>
     <li>
-      <a href="https://www.invisionapp.com/" target="blank">InVision</a> - InVision is the digital product design
-      platform used to make the world's best customer experiences.
-    </li>
-    <li>
       <a href="https://balsamiq.com/" target="blank">Balsamiq</a> - Balsamiq is the company behind Balsamiq Wireframes,
       the industry standard low-fidelity wireframing tool.
     </li>
