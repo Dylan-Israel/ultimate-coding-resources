@@ -461,6 +461,10 @@
         their github account so we can see tangible work they have done.
       </li>
       <li>
+        <a href="https://www.jobemerge.work" target="blank">JobEmerge</a> - AI career copilot with job-fit analysis,
+        resume translation in 19 languages, Markdown editing, text-based mock interviews, and application tracking.
+      </li>
+      <li>
         <a href="https://hashnode.com/" target="blank">HashNode</a> - Hashnode is the easiest way to connect with the
         best developers from around the world and grow your career!
       </li>
