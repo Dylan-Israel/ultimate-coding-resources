@@ -641,6 +641,10 @@
       <li>
         <a href="https://relatedrepos.com/" target="blank">Related Repos</a> - Discover related open source projects. Find alternatives and other similar repositories. Updated daily.
       </li>
+      <li>
+        <a href="https://curlshot.com/" target="blank">CurlShot</a> - Take a full-page screenshot of any website, as an
+        image or PDF, online or with one API call. Handy for docs, bug reports and link previews. Free plan included.
+      </li>
     </ol>
   </details>
 
