@@ -467,6 +467,11 @@
             <li>
         <a href="https://www.levels.fyi/" target="blank">levels.fyi</a> - we break down the total compensation packages for multiple levels of software engineers at the largest tech companies.
       </li>
+      <li>
+        <a href="https://aethel.pro/practice" target="blank">Aethel</a> - Free practice for AI interviews in developer roles
+        (backend, frontend, full-stack, data and ML, DevOps and SRE, mobile) at junior, mid-level and senior. No account
+        needed, and answers are not saved.
+      </li>
     </ol>
   </details>
   <details open>
