@@ -801,6 +801,7 @@
 <details open>
   <summary>Blogs</summary>
   <ol>
+    <li><a href="https://webcheatsheet.com" target="blank">WebCheatSheet</a> - Free tutorials and practical reference guides for HTML, CSS, JavaScript, PHP and SQL.</li>
     <li><a href="https://www.programwitherik.com/" target="blank">Program with Erik</a> - Erik is a two time author,
       YouTuber, Podcastor an much more. His blog includes tutorials, rantings and musings on software development, with
       a focus on JavaScript, Ember.js, Vue.js and Node.js.
